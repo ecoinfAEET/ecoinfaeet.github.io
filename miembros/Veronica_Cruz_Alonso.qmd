@@ -11,6 +11,9 @@ about:
 
 :::{#person-profile}
 
+##  Afiliación:
+Universidad de Alcalá, Alcalá de Henares, España
+
 # Resumen de investigación:
 NA
 

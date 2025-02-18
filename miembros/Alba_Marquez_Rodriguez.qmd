@@ -11,6 +11,9 @@ about:
 
 :::{#person-profile}
 
+##  Afiliación:
+Universidad de Cádiz, Cádiz, España
+
 # Resumen de investigación:
 Combinando mi pasión por la informática con mi sensibilidad medioambiental, he descubierto un gran interés en la intersección entre la tecnología y la ecología. Con formación en informática, estoy deseando contribuir al desarrollo de soluciones innovadoras que aborden los desafíos que enfrentan los investigadores y profesionales del medio ambiente.
 

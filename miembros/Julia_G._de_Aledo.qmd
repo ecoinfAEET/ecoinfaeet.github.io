@@ -11,6 +11,9 @@ about:
 
 :::{#person-profile}
 
+##  Afiliación:
+Estación Biológica de Doñana, Sevilla, España
+
 # Resumen de investigación:
 Biogeografía: distribución de las plantas tropicales a través de gradientes y factores ambientales que determinan su abundancia y diversidad. 
 Etnobotánica: factores que las hacen útiles, a nivel evolutivo y funcional, fomentando la conservación y el estudio del conocimiento tradicional en comunidades locales. 

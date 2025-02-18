@@ -11,6 +11,9 @@ about:
 
 :::{#person-profile}
 
+##  Afiliación:
+Universidad de Córdoba (España), Córdoba, España
+
 # Resumen de investigación:
 - Detección de cambios espaciales y temporales en los patrones de biodiversidad y la dinámica de los ecosistemas, desde los niveles de especie hasta los de ecosistema y paisaje;
 - Asimilación y evaluación de datos de observación de la Tierra para mejorar los marcos de monitoreo y seguimiento de la biodiversidad asistidos por modelos ecológicos; 

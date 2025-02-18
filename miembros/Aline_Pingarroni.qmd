@@ -11,6 +11,9 @@ about:
 
 :::{#person-profile}
 
+##  Afiliación:
+Universidad Nacional Autónoma de México, México, México
+
 # Resumen de investigación:
 Dinámica de sistemas socioecológicos: análisis de las relaciones entre las personas y los ecosistemas, así como los procesos sociales y ecológicos relacionados.
  

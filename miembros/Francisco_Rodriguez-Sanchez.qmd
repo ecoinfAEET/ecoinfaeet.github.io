@@ -11,6 +11,9 @@ about:
 
 :::{#person-profile}
 
+##  Afiliación:
+Universidad de Sevilla, Sevilla, España
+
 # Resumen de investigación:
 I am a computational ecologist working at the intersection between ecology, biogeography, statistics and data science. My main research line focuses on better understanding and forecasting climate change effects on biodiversity, by coupling field observations with computational approaches based on big datasets, complex statistical models, and reproducible workflows.
 

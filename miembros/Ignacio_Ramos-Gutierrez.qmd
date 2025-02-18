@@ -11,6 +11,9 @@ about:
 
 :::{#person-profile}
 
+##  Afiliación:
+Universidad de Sevilla, Sevilla, España
+
 # Resumen de investigación:
 Mi investigación se enmarca en el campo de la biogeografía y conservación de plantas, especialmente en la Península Ibérica.
 Mi interés se centra en incluir el aspecto evolutivo en los análisis a través del uso de megafilogenias, y explorar el aspecto geográfico de los mismos.

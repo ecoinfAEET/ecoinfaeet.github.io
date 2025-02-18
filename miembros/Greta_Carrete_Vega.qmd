@@ -11,6 +11,9 @@ about:
 
 :::{#person-profile}
 
+##  Afiliación:
+Versant, Madrid, España
+
 # Resumen de investigación:
 Uso de modelos de distribución de especia para proyectos de conservación y regeneración terrestres.
 

@@ -11,6 +11,9 @@ about:
 
 :::{#person-profile}
 
+##  Afiliación:
+Instituto de Ciencias Agrarias, Madrid, España
+
 # Resumen de investigación:
 En esta línea se pretende comparar el microbioma de los progenitores silvestres de los cultivos en sus poblaciones naturales de origen con el de sus parientes modernos a escala global. Identificaremos microorganismos e interacciones clave que se hayan perdido en los cultivos modernos durante la domesticación. Este conocimiento permitirá optimizar interacciones entre cultivos y microorganismos en la rizosfera, endosfera y filosfera, con el objetivo de mejorar los biofertilizantes y bioinoculantes actuales, atribuyendo a esta línea un elevado potencial de transferencia tecnológica.
 

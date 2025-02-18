@@ -11,6 +11,9 @@ about:
 
 :::{#person-profile}
 
+##  Afiliación:
+Universidad Autónoma de Madrdi, Madrid, España
+
 # Resumen de investigación:
 I am a spatial ecologist mainly interested in testing, improving and applying Species Distribution Models to conservation, mainly for vertebrates and especially for carnivores and their coexistence with humans. I am further interested in the effect of species niches and ecological interactions on species coexistence across different spatial scales.
 
