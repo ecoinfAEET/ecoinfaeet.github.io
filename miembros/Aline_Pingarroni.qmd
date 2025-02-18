@@ -1,7 +1,6 @@
 ---
 title: Aline Pingarroni
-subtitle: Universidad Nacional Autónoma de México
-México (México)
+subtitle: Universidad Nacional Autónoma de México, México (México)
 image: https://github.com/AlinePingarroni.png
 toc: false
 about: 

@@ -1,7 +1,6 @@
 ---
 title: Alba Márquez Rodríguez
-subtitle: Universidad de Cádiz
-Cádiz (España)
+subtitle: Universidad de Cádiz, Cádiz (España)
 image: https://github.com/GrunCrow.png
 toc: false
 about: 

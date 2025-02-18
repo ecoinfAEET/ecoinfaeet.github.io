@@ -1,7 +1,6 @@
 ---
 title: Julia G. de Aledo
-subtitle: Estación Biológica de Doñana
-Sevilla (España)
+subtitle: Estación Biológica de Doñana, Sevilla (España)
 image: https://github.com/juliagdealedo.png
 toc: false
 about: 

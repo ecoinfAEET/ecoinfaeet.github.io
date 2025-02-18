@@ -1,7 +1,6 @@
 ---
 title: Greta Carrete Vega
-subtitle: Versant
-Madrid (España)
+subtitle: Versant, Madrid (España)
 image: https://github.com/Gretacv.png
 toc: false
 about: 

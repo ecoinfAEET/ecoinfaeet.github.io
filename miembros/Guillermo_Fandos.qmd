@@ -1,7 +1,6 @@
 ---
 title: Guillermo Fandos
-subtitle: Universidad Complutense de Madrid
-Madrid (España)
+subtitle: Universidad Complutense de Madrid, Madrid (España)
 image: https://github.com/guifandos.png
 toc: false
 about: 
