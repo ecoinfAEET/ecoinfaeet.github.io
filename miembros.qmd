@@ -41,7 +41,10 @@ write.csv(coords.table, file = "institutioncoords.csv",
 
 # combine both table by its affiliation and add coordinates (POINTS)
 member.table.coords <- merge(member.table, coords.table, all.x = TRUE) |> 
-  subset(!is.na(lon))
+  subset(!is.na(lon)) 
+member.table.coords$lon <- as.numeric(member.table.coords$lon)
+member.table.coords$lat <- as.numeric(member.table.coords$lat)
+
   # filter(!is.na(lon)) |> 
   # st_as_sf(coords = c("lon", "lat")) |> 
 member.table.coords$weblink <- paste0('<a href="', 
