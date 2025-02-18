@@ -11,6 +11,9 @@ about:
 
 :::{#person-profile}
 
+##  Afiliación:
+Universidad Complutense de Madrid, Madrid, España
+
 # Resumen de investigación:
 I am a spatial ecologist and conservation scientist with a broad interest in the ecological processes that drive the distribution and abundance of animal populations in space and time. As a mix between a field biologist and a data geek, I am an avid R user, who enjoys working with large datasets (both researcher-collected and citizen science) while developing and/or implementing new statistical methods to answer pressing questions in spatial ecology and conservation.
 

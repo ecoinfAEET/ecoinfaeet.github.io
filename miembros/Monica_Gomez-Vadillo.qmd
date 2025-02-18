@@ -11,6 +11,9 @@ about:
 
 :::{#person-profile}
 
+##  Afiliación:
+Museo Nacional de Ciencias Naturales, Madrid, España
+
 # Resumen de investigación:
 My research examines ecological niche and species co-occurrence patterns at macroecological scales using Multidimensional Niche Models (MDEs) and hypervolumes. This approach helps improve our understanding of species coexistence and their responses to global change.
 

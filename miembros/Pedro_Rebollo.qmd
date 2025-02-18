@@ -11,6 +11,9 @@ about:
 
 :::{#person-profile}
 
+##  Afiliación:
+Universidad Complutense de Madrid, Madrid, España
+
 # Resumen de investigación:
 Estudio dinámicas espacio-temporales  en bosques Ibéricos y los factores subyacentes a estas dinámicas; estudiando especialmente la composición de especies y las perturbaciones
 
