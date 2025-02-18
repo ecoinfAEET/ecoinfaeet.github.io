@@ -53,7 +53,7 @@ create_profile_qmd <- function(form.table, row){
     "---", "\n",
     "title: ", name,  "\n",
     # "sortby: ", ord,  "\n",
-    "subtitle: ", paste0(inst, "\n", ciudad, " (", pais, ")"), "\n",
+    "subtitle: ", paste0(inst, ", ", ciudad, " (", pais, ")"), "\n",
     "image: ", image, "\n",
     "toc: false",  "\n",
     "about: ", "\n",
