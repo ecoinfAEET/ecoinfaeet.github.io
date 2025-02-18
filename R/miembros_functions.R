@@ -21,12 +21,14 @@ create_profile_qmd <- function(form.table, row){
   gh.icon <- fontawesome::fa(name = "github",  fill = "#71706F", height = "1em")
   at.icon <- fontawesome::fa(name = "at", fill = "#71706F", height = "1em")
   web.icon <- fontawesome::fa(name = "user", fill = "#71706F", height = "1em")
+  mail.icon <- fontawesome::fa(name = "envelope", fill = "#71706F", height = "1em")
   
   icons <- " "    
   
   if (!is.na(social)) {icons <- paste0(icons, at.icon,"\t<", social, ">\t\t\n")}
   if (!is.na(github)) {icons <- paste0(icons, gh.icon,"\t<", github , ">\t\t\n")} 
   if (!is.na(web)) {icons <- paste0(icons, web.icon,"\t<", web , ">\t\t\n")} 
+  if (!is.na(email)) {icons <- paste0(icons, mail.icon,"\t", email , "\t\t\n")} 
   
   if (is.na(github)){
     if(!file.exists("images/blank.png")){
@@ -51,7 +53,7 @@ create_profile_qmd <- function(form.table, row){
     "---", "\n",
     "title: ", name,  "\n",
     # "sortby: ", ord,  "\n",
-    "subtitle: ", email,  "\n",
+    "subtitle: ", paste0(inst, "\n", ciudad, " (", pais, ")"), "\n",
     "image: ", image, "\n",
     "toc: false",  "\n",
     "about: ", "\n",
@@ -62,8 +64,6 @@ create_profile_qmd <- function(form.table, row){
     "",  "\n",
     ":::{#person-profile}",  "\n",
     "\n",
-    "##  Afiliación:\n",    
-    paste0(inst, ", ", ciudad, ", ", pais), "\n\n",
     "# Resumen de investigación:\n",
     inves, "\n\n",
     "#  Interés profesional dentro del grupo:\n",    
