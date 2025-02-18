@@ -7,6 +7,9 @@ create_profile_qmd <- function(form.table, row){
   
   name   <- pers.table$`Nombre y apellidos`
   email  <- pers.table$`Email`
+  inst   <- pers.table$`Institución`
+  ciudad <- pers.table$`Ciudad`
+  pais   <- pers.table$`País`
   inves  <- pers.table$`Resumen investigación (max. 3 frases)`
   inter  <- pers.table$`Intereses dentro del grupo (max. 4 intereses)`
   web    <- pers.table$`Pagina web`
@@ -59,6 +62,8 @@ create_profile_qmd <- function(form.table, row){
     "",  "\n",
     ":::{#person-profile}",  "\n",
     "\n",
+    "##  Afiliación:\n",    
+    paste0(inst, ", ", ciudad, ", ", pais), "\n\n",
     "# Resumen de investigación:\n",
     inves, "\n\n",
     "#  Interés profesional dentro del grupo:\n",    
