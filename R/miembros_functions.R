@@ -38,7 +38,7 @@ create_profile_qmd <- function(form.table, row){
       plot.new()
       dev.off()
     }
-    image <- "images/blank.png"
+    image <- "https://github.com/ecoinfAEET/ecoinfaeet.github.io/blob/main/images/blank.png"
   }else{
     ghuser <- gsub("https://", "", github)
     ghuser <- gsub("github.com/", "", ghuser)
