@@ -16,7 +16,9 @@ create_profile_qmd <- function(form.table, row){
   github <- pers.table$`Cuenta de GitHub`
   social <- pers.table$`Cuenta de Bluesky o Twitter`
   
-  github <- ifelse(grepl("https://", github), github, paste0("https://github.com/", github))
+  if(!is.na(github)){
+    github <- ifelse(grepl("https://", github), github, paste0("https://github.com/", github))
+    }
   
   gh.icon <- fontawesome::fa(name = "github",  fill = "#71706F", height = "1em")
   at.icon <- fontawesome::fa(name = "at", fill = "#71706F", height = "1em")
