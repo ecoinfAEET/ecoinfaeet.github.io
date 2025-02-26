@@ -1,7 +1,6 @@
 ---
 title: Verónica Cruz Alonso
-subtitle: Universidad de Alcalá
-Alcalá de Henares (España)
+subtitle: Universidad de Alcalá, Alcalá de Henares (España)
 image: https://github.com/VeruGHub.png
 toc: false
 about: 

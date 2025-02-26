@@ -1,7 +1,6 @@
 ---
 title: Elena Quintero
-subtitle: Universidad de Sevilla
-Sevilla (España)
+subtitle: Universidad de Sevilla, Sevilla (España)
 image: https://github.com/elequintero.png
 toc: false
 about: 

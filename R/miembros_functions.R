@@ -33,12 +33,7 @@ create_profile_qmd <- function(form.table, row){
   if (!is.na(email)) {icons <- paste0(icons, mail.icon,"\t", email , "\t\t\n")} 
   
   if (is.na(github)){
-    if(!file.exists("images/blank.png")){
-      png("images/blank.png", 100,100,res = 100, units = "mm")
-      plot.new()
-      dev.off()
-    }
-    image <- "https://github.com/ecoinfAEET/ecoinfaeet.github.io/main/images/blank.png"
+    image <- "../images/avatar.jpg"
   }else{
     ghuser <- gsub("https://", "", github)
     ghuser <- gsub("github.com/", "", ghuser)

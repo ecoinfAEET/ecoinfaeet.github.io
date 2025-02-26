@@ -1,7 +1,6 @@
 ---
 title: Mónica Gómez-Vadillo
-subtitle: Museo Nacional de Ciencias Naturales
-Madrid (España)
+subtitle: Museo Nacional de Ciencias Naturales, Madrid (España)
 image: https://github.com/mgomezv26.png
 toc: false
 about: 

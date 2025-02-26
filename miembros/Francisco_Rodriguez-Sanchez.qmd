@@ -1,7 +1,6 @@
 ---
 title: Francisco Rodríguez-Sánchez
-subtitle: Universidad de Sevilla
-Sevilla (España)
+subtitle: Universidad de Sevilla, Sevilla (España)
 image: https://github.com/Pakillo.png
 toc: false
 about: 

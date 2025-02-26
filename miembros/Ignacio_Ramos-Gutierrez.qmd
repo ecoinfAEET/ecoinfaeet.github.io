@@ -1,7 +1,6 @@
 ---
 title: Ignacio Ramos-Gutiérrez
-subtitle: Universidad de Sevilla
-Sevilla (España)
+subtitle: Universidad de Sevilla, Sevilla (España)
 image: https://github.com/iramosgutierrez.png
 toc: false
 about: 

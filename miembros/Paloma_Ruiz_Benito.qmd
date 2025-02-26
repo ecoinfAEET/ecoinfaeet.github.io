@@ -1,7 +1,6 @@
 ---
 title: Paloma Ruiz Benito
-subtitle: Universidad de Alcalá
-Alcalá de Henares (España)
+subtitle: Universidad de Alcalá, Alcalá de Henares (España)
 image: https://github.com/ruizbp.png
 toc: false
 about: 

@@ -1,7 +1,6 @@
 ---
 title: Julen Astigarraga
-subtitle: Lund University, Universidad del País Vasco
-Lund (Suecia)
+subtitle: Lund University, Universidad del País Vasco, Lund (Suecia)
 image: https://github.com/Julenasti.png
 toc: false
 about: 

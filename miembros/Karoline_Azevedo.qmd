@@ -1,7 +1,6 @@
 ---
 title: Karoline Azevedo
-subtitle: Universidad Federal de Alagoas
-Maceió-AL (Brasil)
+subtitle: Universidad Federal de Alagoas, Maceió-AL (Brasil)
 image: https://github.com/karolazvdo.png
 toc: false
 about: 

@@ -1,7 +1,6 @@
 ---
 title: Pedro Rebollo
-subtitle: Universidad Complutense de Madrid
-Madrid (España)
+subtitle: Universidad Complutense de Madrid, Madrid (España)
 image: https://github.com/prebollo.png
 toc: false
 about: 

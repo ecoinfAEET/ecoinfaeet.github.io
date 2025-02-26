@@ -1,7 +1,6 @@
 ---
 title: Miguel de Celis
-subtitle: Instituto de Ciencias Agrarias
-Madrid (España)
+subtitle: Instituto de Ciencias Agrarias, Madrid (España)
 image: https://github.com/migueldc1.png
 toc: false
 about: 

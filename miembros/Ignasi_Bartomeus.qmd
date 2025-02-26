@@ -1,7 +1,6 @@
 ---
 title: Ignasi Bartomeus
-subtitle: EBD-CSIC
-Sevilla (España)
+subtitle: EBD-CSIC, Sevilla (España)
 image: https://github.com/ibartomeus.png
 toc: false
 about: 

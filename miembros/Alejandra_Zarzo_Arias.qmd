@@ -1,7 +1,6 @@
 ---
 title: Alejandra Zarzo Arias
-subtitle: Universidad Autónoma de Madrdi
-Madrid (España)
+subtitle: Universidad Autónoma de Madrid, Madrid (España)
 image: https://github.com/alezarzo.png
 toc: false
 about: 

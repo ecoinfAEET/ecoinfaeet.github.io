@@ -1,7 +1,6 @@
 ---
 title: Salvador Arenas-Castro
-subtitle: Universidad de Córdoba (España)
-Córdoba (España)
+subtitle: Universidad de Córdoba (España), Córdoba (España)
 image: https://github.com/salvador-arenas-castro.png
 toc: false
 about: 
