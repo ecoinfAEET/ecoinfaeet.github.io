@@ -9,6 +9,22 @@ format:
 
 <br>
 
+## Seminario 19. OCCUR Shiny app: flujo de trabajo para validar registros de especies
+
+-   [OCCUR Shiny app: La importancia de establecer un flujo de trabajo apropiado para validar registros de presencia de especies](https://youtu.be/ck6rzzSy4kE)
+
+    -   Impartido por: Cristina Ronquillo
+
+    -   Resumen: Numerosos estudios a gran escala en biogeografía y macroecología son desarrollados a partir  de  los  registros  de  presencia  de biodiversidad publicados en repositorios abiertos. Sin embargo, estos datos no deben analizarse directamente por los sesgos y errores que contienen y el personal de investigación debe enfrentarse al desafío de validarlos  previamente.  En  este  seminario  se  presentará  la guía interactiva OCCUR como un recurso valioso para integrar el control de calidad de datos en flujos de trabajo analíticos y contextos educativos. OCCUR es una aplicación Shiny diseñada para guiar en el tratamiento, limpieza  y  validación  de  datos  de  biodiversidad  que  busca  definir protocolos  estandarizados  de  curación  de  datos  que  garanticen la reproducibilidad  y  comparabilidad  de  los  estudios.  Esta  aplicación integra  librerías  de  R  con  código  básico,  permitiendo  documentar cada  paso  del  proceso  y  explorar  los  compromisos  entre  la certidumbre  y  la  cobertura  de  los  datos.  Aprovecharemos  también para mostrar algunos ejemplos de errores típicos que pueden estar ocultos en los registros de las bases de datos y se comentarán algunos casos en los que se ha aplicado el flujo de trabajo de OCCUR.
+
+    -   Enlaces de interés:
+    
+        -   https://ecoinformatic.shinyapps.io/OCCUR 
+        -   https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14271 
+        -   https://onlinelibrary.wiley.com/doi/10.1002/ece3.10786 
+
+    -   Fecha: 8 abril 2025
+
 ## Seminario 18. Análisis de textos con R: ejemplos útiles para la ecología
 
 -   [Análisis de textos con R: ejemplos útiles para la ecología](https://youtu.be/K94y_zAGLmc)
@@ -21,7 +37,6 @@ format:
 
     -   Fecha: 26 febrero 2025
 
-
 ## Seminario 17. BlueCarbon R package: get stocks and sequestration rates estimations directly from raw laboratory data
 
 -   [BlueCarbon R package: get stocks and sequestration rates estimations directly from raw laboratory data](https://www.youtube.com/watch?v=XCrrR3_MSHc)
@@ -32,7 +47,6 @@ format:
 
     -   Fecha: 28 enero 2025
 
-
 ## Seminario 16. El papel de la IA en la ecología, cómo transformar imágenes en datos
 
 -   [El papel de la IA en la ecología, cómo transformar imágenes en datos: Opciones, desafíos y soluciones](https://www.youtube.com/watch?v=txJfuPeodQw)
@@ -41,8 +55,6 @@ format:
 
     -   Resumen: El seminario pretende explorar la creciente intersección entre la inteligencia artificial (IA) y la ecología, centrándose en cómo la IA puede transformar imágenes en datos para impulsar la investigación y la conservación de la naturaleza. El seminario aborda la definición de IA y su relevancia en el contexto ecológico, destacando casos prácticos que ilustran su aplicación en la recolección y análisis de datos ecológicos. El objetivo principal de la charla es familiarizar a las personas participantes con el potencial y las aplicaciones prácticas de la IA en el campo de la ecología. Se discutirán herramientas y técnicas específicas de IA que ya están disponibles y se exploran errores comunes que suelen cometerse desde la perspectiva de la ecología al utilizar estas tecnologías. Además, se enfatiza la importancia de una colaboración interdisciplinaria entre ecólogos y expertos en IA para abordar los desafíos ambientales de manera efectiva. En resumen, la charla busca inspirar a los participantes a considerar cómo la IA puede mejorar y ampliar su trabajo en la conservación y comprensión de los ecosistemas naturales.
 
-    -   Fecha: 29 mayo 2024
-
     -   Links a webs de IA surgidas durante las preguntas:
 
         -   <https://github.com/agentmorris/Awesome-Remote-Sensing-Foundation-Models>
@@ -50,6 +62,8 @@ format:
         -   <https://addaxdatascience.com/ecoassist/>
         -   <https://huggingface.co/docs/transformers/model_doc/grounding-dino>
         -   <https://aiforconservation.slack.com/join/shared_invite/zt-2jxl41cwx-TBbsOOcvTEvh0JKdu5JaJg#/shared-invite/email>
+        
+    -   Fecha: 29 mayo 2024
 
 ## Seminario 15. Inferir rango de distribución a partir de diversidad genética
 
@@ -60,7 +74,7 @@ format:
     -   Resumen: Durante la expansión histórica del rango de distribución de una especie, los individuos que van colonizando nuevos ambientes se enfrentan a diferentes retos ecológicos. Lo capaces que son esos individuos de tener éxito en la expansión debe depender inequívocamente de lo adaptados que estén a los nuevos ambientes. Las herramientas de las que dispone un individuo para sobreponerse a estos retos se traducen en diversidad genética adaptativa. Por tanto, los rangos de distribución de una especie deben estar estrechamente relacionados con la cantidad total de variación genética adaptativa de esa especie. En este seminario, a partir de genomas de unas pocas poblaciones que ocupen un gradiente climático representativo del rango de distribución de una especie, identificaremos la porción de diversidad genética sujeta a selección natural (i.e., responsable de adaptaciones), y lo relacionaremos con la diversidad ambiental que ocupa. Extrapolando el modelo que surja de establecer esa relación, es posible saber qué ambientes puede ocupar una cantidad de diversidad genética adaptativa concreta, inferir el rango de distribución de la especie a partir de esta información y conocer los determinantes intrínsecos a la especie que restringen o favorecen la expansión o contracción de su rango.
 
     -   Fecha: 9 Abril 2024
-
+    
 ## Seminario 14. ¿Qué información puedo obtener de los datos PNOA-LiDAR?
 
 -   [¿Qué información puedo obtener de los datos abiertos PNOA-LiDAR para caracterizar mi zona de estudio?](https://www.youtube.com/watch?v=vzjqLjKOPPM)
