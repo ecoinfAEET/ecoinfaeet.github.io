@@ -15,7 +15,7 @@ Las Notas Ecoinformáticas son artículos breves sobre temas de ecoinformática 
 
 Las Notas Ecoinformáticas deben tener una longitud máxima de 1500 palabras, y pueden incluir figuras y/o tablas (para contribuciones más largas pueden considerarse otros [tipos de artículo permitidos en la revista *Ecosistemas*](http://www.revistaecosistemas.net/index.php/ecosistemas/about/submissions#authorGuidelines)).
 
-La sección de Notas Ecoinformáticas está coordinada por [Verónica Cruz Alonso](https://scholar.google.es/citations?user=mdktyS4AAAAJ&hl=es) y [Julen Astigarraga](https://bsky.app/profile/julenastigarraga.bsky.social), miembros del grupo de trabajo de Ecoinformática de la [AEET](http://www.aeet.org).
+La sección de Notas Ecoinformáticas está coordinada por [Verónica Cruz Alonso](https://orcid.org/0000-0002-0642-036X) y [Julen Astigarraga](https://orcid.org/0000-0001-9520-3713), miembros del grupo de trabajo de Ecoinformática de la [AEET](http://www.aeet.org).
 
 <br>
 
@@ -25,7 +25,7 @@ Deben seguirse las [normas para envíos](http://www.revistaecosistemas.net/index
 
 1)  El proceso se inicia enviando la nota por correo a los editores ([veronica.cral\@gmail.com](mailto:veronica.cral@gmail.com){.email}) y Julen Astigarraga ([julenastigarraga\@gmail.com](mailto:julenastigarraga@gmail.com){.email}).
 
-2)  Tras una revisión inicial por parte de los editores, comenzará un período de **revisión abierta** (open peer review) en el [repositorio de GitHub](https://github.com/ecoinfAEET/Notas_Ecosistemas), anunciándolo en los diversos [canales de comunicación](https://ecoinfaeet.github.io/new_website/) del grupo de Ecoinformática. Para llevar a cabo este proceso es necesario que los autores generen una [cuenta en GitHub](https://github.com/).
+2)  Tras una revisión inicial por parte de los editores, comenzará un período de **revisión abierta** (open peer review) en el [repositorio de GitHub](https://github.com/ecoinfAEET/Notas_Ecosistemas), anunciándolo en los diversos [canales de comunicación](https://ecoinfaeet.github.io/) del grupo de Ecoinformática. Para llevar a cabo este proceso es necesario que los autores generen una [cuenta en GitHub](https://github.com/).
 
 3)  Se abrirá un issue específico para la revisión donde todo el mundo puede aportar comentarios siguiendo [las directrices para los revisores](https://github.com/ecoinfAEET/Notas_Ecosistemas/blob/master/directrices_revisores.MD). Si alguien desea hacer comentarios sin identificarse puede utilizar un usuario de GitHub anónimo, o enviar los comentarios a los editores por email, asegurándose la confidencialidad.
 
