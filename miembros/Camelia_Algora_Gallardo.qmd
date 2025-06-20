@@ -1,0 +1,23 @@
+---
+title: Camelia Algora Gallardo
+subtitle: Instituto de Recursos Naturales y Agrobiología de Sevilla (IRNAS-CSIC), Sevilla (España)
+image: ../images/avatar.jpg
+toc: false
+about: 
+  id: person-profile
+  template: jolla
+
+---
+
+:::{#person-profile}
+
+# Resumen de investigación:
+Trabajo en el estudio de microbiomas de suelos de sistemas agrícolas, forestales (bosques templados), y tundra del Ártico investigando el efecto del cambio climático y otros estresores ambientales en comunidades de bacterias y hongos y el efecto en sus funciones, tales como la descomposición de materia orgánica.
+
+#  Interés profesional dentro del grupo:
+Estar conectada con otros ecólogos para compartir métodos de análisis estadístico con herramientas de R (u otros programas). Aprender de otros colegas del campo de la ecología para hacer mejores análisis y estar al día de técnicas estadísticas para el estudio de la ecología.
+
+
+ <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:#71706F;overflow:visible;position:relative;"><path d="M64 112c-8.8 0-16 7.2-16 16v22.1L220.5 291.7c20.7 17 50.4 17 71.1 0L464 150.1V128c0-8.8-7.2-16-16-16H64zM48 212.2V384c0 8.8 7.2 16 16 16H448c8.8 0 16-7.2 16-16V212.2L322 328.8c-38.4 31.5-93.7 31.5-132 0L48 212.2zM0 128C0 92.7 28.7 64 64 64H448c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H64c-35.3 0-64-28.7-64-64V128z"/></svg>	algoracamelia@gmail.com		
+
+:::
