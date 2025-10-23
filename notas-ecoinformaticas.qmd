@@ -23,7 +23,7 @@ La sección de Notas Ecoinformáticas está coordinada por [Verónica Cruz Alons
 
 Deben seguirse las [normas para envíos](http://www.revistaecosistemas.net/index.php/ecosistemas/about/submissions#authorGuidelines) de la revista Ecosistemas, pero considerando que todo el proceso editorial y de revisión se realizará a través de GitHub. Las Notas Ecoinformáticas se revisarán mediante un proceso abierto y dinámico. Eso quiere decir que cualquier persona puede hacer sugerencias o comentarios sobre los manuscritos para mejorar su contenido (ver [ejemplo](https://github.com/ecoinfAEET/Notas_Ecosistemas/issues/4)). El proceso es el siguiente:
 
-1)  El proceso se inicia enviando la nota por correo a los editores ([veronica.cral\@gmail.com](mailto:veronica.cral@gmail.com){.email}) y Julen Astigarraga ([julenastigarraga\@gmail.com](mailto:julenastigarraga@gmail.com){.email}).
+1)  El proceso se inicia enviando la nota por correo a los editores Verónica Cruz Alonso ([veronica.cral\@gmail.com](mailto:veronica.cral@gmail.com){.email}) y Julen Astigarraga ([julenastigarraga\@gmail.com](mailto:julenastigarraga@gmail.com){.email}).
 
 2)  Tras una revisión inicial por parte de los editores, comenzará un período de **revisión abierta** (open peer review) en el [repositorio de GitHub](https://github.com/ecoinfAEET/Notas_Ecosistemas), anunciándolo en los diversos [canales de comunicación](https://ecoinfaeet.github.io/) del grupo de Ecoinformática. Para llevar a cabo este proceso es necesario que los autores generen una [cuenta en GitHub](https://github.com/).
 
@@ -35,11 +35,11 @@ Deben seguirse las [normas para envíos](http://www.revistaecosistemas.net/index
 
 6)  Finalizada la revisión abierta en GitHub, los autores enviarán la nota a <https://www.revistaecosistemas.net> para su maquetación, incluyendo en agradecimientos el link al issue donde se ha realizado la revisión abierta de la nota.
 
-Durante la revisión, seguirá en todo momento un código de conducta que sea inclusivo y respetuoso, siguiendo las directrices fijadas [aquí](https://ropensci.org/code-of-conduct/). Todos los revisores recibiran un reconocimiento por haber revisado la nota. Anualmente, los editores harán un release del repositorio de GitHub y publicarán una copia del repositorio en zenodo.
+Durante la revisión, seguirá en todo momento un código de conducta que sea inclusivo y respetuoso, siguiendo las directrices fijadas [aquí](https://ropensci.org/code-of-conduct/). Todos los revisores recibiran un reconocimiento por haber revisado la nota. Anualmente, los editores harán un release del repositorio de GitHub y publicarán una copia del repositorio en Zenodo.
 
 En este [repositorio de GitHub](https://github.com/ecoinfAEET/Notas_Ecosistemas) hay un [issue abierto](https://github.com/ecoinfAEET/Notas_Ecosistemas/issues) para cada Nota Ecoinformática en revisión y otros para recoger propuestas de temas (y posibles responsables).
 
-Para la escritura de la nota, recomendamos la utilización de la [plantilla de Rmarkdown o de Quarto](https://github.com/ecoinfAEET/Notas_Ecosistemas/tree/master/template) incluida en la carpeta 'template' de este [repositorio de GitHub](https://github.com/ecoinfAEET/Notas_Ecosistemas). Dicha plantilla ya está configurada para generar un documento Word siguiendo todas las normas de estilo de la revista *Ecosistemas*. Alternativamente, también se puede escribir la nota en cualquier procesador de texto siguiendo las [normas para envíos](http://www.revistaecosistemas.net/index.php/ecosistemas/about/submissions#authorGuidelines) de la revista. En caso de incluir código de R, éste debe seguir las normas de estilo especificadas [aquí](http://adv-r.had.co.nz/Style.html).
+Para la escritura de la nota, recomendamos la utilización de la [plantilla de Rmarkdown o de Quarto](https://github.com/ecoinfAEET/Notas_Ecosistemas/tree/master/template) incluida en la carpeta 'template' del [repositorio de GitHub](https://github.com/ecoinfAEET/Notas_Ecosistemas). Dicha plantilla ya está configurada para generar un documento Word siguiendo todas las normas de estilo de la revista *Ecosistemas*. Alternativamente, también se puede escribir la nota en cualquier procesador de texto siguiendo las [normas para envíos](http://www.revistaecosistemas.net/index.php/ecosistemas/about/submissions#authorGuidelines) de la revista. En caso de incluir código de R, éste debe seguir las normas de estilo especificadas [aquí](http://adv-r.had.co.nz/Style.html).
 
 ¡Gracias a todos por participar!
 

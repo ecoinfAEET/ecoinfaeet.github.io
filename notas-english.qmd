@@ -1,0 +1,62 @@
+---
+title: "Ecoinformatics Notes"
+format:
+  html:
+    toc: true
+    toc-title: "Índice"
+    css: styles.css
+---
+
+<br>
+
+## What are the Ecoinformatics Notes?
+
+The Ecoinformatics Notes are short articles on topics broadly related to ecoinformatics (statistics, programming, computing, reproducibility, data science, etc.) published in the journal [*Ecosistemas*](http://www.revistaecosistemas.net). Ideally, the Ecoinformatics Notes should provide a general overview for ecologists who are not specialists in ecoinformatics, rather than being an exhaustive treatise. It is recommended that they include examples (i.e., showing code) and references to specialized literature or tutorials for those who wish to learn more.
+
+The Ecoinformatics Notes must have a maximum length of 1,500 words and may include figures and/or tables (for longer contributions, other [types of articles allowed in the journal *Ecosistemas*](http://www.revistaecosistemas.net/index.php/ecosistemas/about/submissions#authorGuidelines) may be considered).
+
+The Ecoinformatics Notes section is coordinated by [Verónica Cruz Alonso](https://orcid.org/0000-0002-0642-036X) and [Julen Astigarraga](https://orcid.org/0000-0001-9520-3713), members of the Ecoinformatics Working Group
+from the Spanish Association for Terrestrial Ecology ([AEET](http://www.aeet.org)).
+
+<br>
+
+## How to contribute
+
+Authors should follow the [submission guidelines](http://www.revistaecosistemas.net/index.php/ecosistemas/about/submissions#authorGuidelines) of the *Ecosistemas* journal, but taking into account that the entire editorial and review process will take place through GitHub. The Ecoinformatics Notes will be reviewed through an open and dynamic process. This means that anyone can make suggestions or comments on the manuscripts to improve their content (see [example in Spanish](https://github.com/ecoinfAEET/Notas_Ecosistemas/issues/4)
+). The process is as follows:
+
+1)  The process starts by sending the note by email to the editors Verónica Cruz Alonso ([veronica.cral\@gmail.com](mailto:veronica.cral@gmail.com){.email}) and Julen Astigarraga ([julenastigarraga\@gmail.com](mailto:julenastigarraga@gmail.com){.email}).
+
+2)  After an initial review by the editors, an open peer review period will begin in the [GitHub repository](https://github.com/ecoinfAEET/Notas_Ecosistemas), announcing it through the various [communication channels](https://ecoinfaeet.github.io/) of the Ecoinformatics group. To carry out this process, authors need to create a [GitHub account](https://github.com/).
+
+3)  A specific issue will be opened for the review, where anyone can contribute comments following the [reviewer guidelines](https://github.com/ecoinfAEET/Notas_Ecosistemas/blob/master/directrices_revisores.MD). If someone wishes to comment anonymously, they can use an anonymous GitHub account or send their comments to the editors by email, ensuring confidentiality.
+
+4) The author will update the manuscript based on the comments received and will respond to any questions raised in the issue.
+
+5) The editors will moderate the process and will accept the note once the discussion has been completed. If, after the review process, the note is still not considered suitable for publication, it may be rejected.
+
+6) Once the open review on GitHub has been completed, the authors will submit the note to <https://www.revistaecosistemas.net> for layout, including in the acknowledgements section the link to the issue where the open review of the note took place.
+
+During the review, a code of conduct that is inclusive and respectful will be followed at all times, in accordance with the guidelines established [here](https://ropensci.org/code-of-conduct/). All reviewers will receive recognition for having reviewed the note. Each year, the editors will make a release of the GitHub repository and publish a copy of the repository on Zenodo.
+
+In this [GitHub repository](https://github.com/ecoinfAEET/Notas_Ecosistemas) there is an [open issue](https://github.com/ecoinfAEET/Notas_Ecosistemas/issues) for each Ecoinformatics Note under review, as well as others for collecting topic proposals (and potential coordinators).
+
+For writing the note, we recommend using the [Rmarkdown or Quarto template](https://github.com/ecoinfAEET/Notas_Ecosistemas/tree/master/template) included in the 'template' folder of the [GitHub repository](https://github.com/ecoinfAEET/Notas_Ecosistemas). This template is already set up to generate a Word document following all the *Ecosistemas* journal style guidelines. Alternatively, the note can also be written in any word processor, following the journal’s [submission guidelines](http://www.revistaecosistemas.net/index.php/ecosistemas/about/submissions#authorGuidelines). If R code is included, it must follow the style conventions specified [here](http://adv-r.had.co.nz/Style.html).
+
+Thank you all for participating!
+
+<br>
+
+## Ecoinformatics Notes published in English
+
+<!---poner la de labeller--->
+-   [Tidyverse: colección de paquetes de R para la ciencia de datos](https://doi.org/10.7818/ECOS.2745)
+
+<br>
+
+```{r}
+#| out.width = "100%",
+#| fig.height = 1,
+#| echo = FALSE
+knitr::include_graphics("images/ecoinf_10.jpg")
+```
