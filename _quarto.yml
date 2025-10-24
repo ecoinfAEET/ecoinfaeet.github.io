@@ -15,6 +15,8 @@ website:
         text: Miembros
       - href: notas-ecoinformaticas.qmd
         text: Notas Ecoinformáticas
+      - href: notas-english.qmd
+        text: Ecoinformatics Notes
       - href: seminarios.qmd
         text: Seminarios
       - text: Actividades
