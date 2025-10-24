@@ -16,7 +16,7 @@ The Ecoinformatics Notes are short articles on topics broadly related to ecoinfo
 The Ecoinformatics Notes must have a maximum length of 1,500 words and may include figures and/or tables (for longer contributions, other [types of articles allowed in the journal *Ecosistemas*](http://www.revistaecosistemas.net/index.php/ecosistemas/about/submissions#authorGuidelines) may be considered).
 
 The Ecoinformatics Notes section is coordinated by [Verónica Cruz Alonso](https://orcid.org/0000-0002-0642-036X) and [Julen Astigarraga](https://orcid.org/0000-0001-9520-3713), members of the Ecoinformatics Working Group
-from the Spanish Association for Terrestrial Ecology ([AEET](http://www.aeet.org)).
+from the Spanish Association of Terrestrial Ecology ([AEET](http://www.aeet.org)).
 
 <br>
 
@@ -29,7 +29,7 @@ Authors should follow the [submission guidelines](http://www.revistaecosistemas.
 
 2)  After an initial review by the editors, an open peer review period will begin in the [GitHub repository](https://github.com/ecoinfAEET/Notas_Ecosistemas), announcing it through the various [communication channels](https://ecoinfaeet.github.io/) of the Ecoinformatics group. To carry out this process, authors need to create a [GitHub account](https://github.com/).
 
-3)  A specific issue will be opened for the review, where anyone can contribute comments following the [reviewer guidelines](https://github.com/ecoinfAEET/Notas_Ecosistemas/blob/master/directrices_revisores.MD). If someone wishes to comment anonymously, they can use an anonymous GitHub account or send their comments to the editors by email, ensuring confidentiality.
+3)  A specific issue will be opened for the review, where anyone can contribute comments following the [reviewer guidelines](https://github.com/ecoinfAEET/Notas_Ecosistemas/blob/master/directrices_revisores.MD#guidelines-for-reviewers). If someone wishes to comment anonymously, they can use an anonymous GitHub account or send their comments to the editors by email, ensuring confidentiality.
 
 4) The author will update the manuscript based on the comments received and will respond to any questions raised in the issue.
 
@@ -50,7 +50,7 @@ Thank you all for participating!
 ## Ecoinformatics Notes published in English
 
 <!---poner la de labeller--->
--   [Tidyverse: colección de paquetes de R para la ciencia de datos](https://doi.org/10.7818/ECOS.2745)
+
 
 <br>
 
