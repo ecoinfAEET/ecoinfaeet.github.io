@@ -30,13 +30,13 @@ member.table <- gsheet::gsheet2tbl("19J9P-is9eJWoDN7_agmSeu5S5YgD4JZIoe_FtZ-G3EQ
   # dplyr::distinct()
 
 # read institution coordinates and only search for the new ones
-coords.table <- read.csv("institutioncoords.csv") |> 
+coords.table <- read.csv("data/institutioncoords.csv") |> 
   update_coord_table(member.table = member.table) |> 
   unique()
   # dplyr::distinct()
 
 # rewrite updated table of institutions coordinates
-write.csv(coords.table, file = "institutioncoords.csv", 
+write.csv(coords.table, file = "data/institutioncoords.csv", 
           quote = TRUE, row.names = FALSE, fileEncoding = "UTF-8")
 
 # combine both table by its affiliation and add coordinates (POINTS)

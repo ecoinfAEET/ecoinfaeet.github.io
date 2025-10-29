@@ -1,11 +1,11 @@
-library(readxl)
+# library(readxl)
 library(plotly)
 library(htmlwidgets)
 library(htmltools)
 library(dplyr)
 
 # Cargar los datos desde un archivo Excel (reemplaza "datos.xlsx" con tu archivo real)
-datos <- read_excel("data/input_hitos.xlsx")
+datos <- read.csv("data/input_hitos.csv")
 datos <- datos %>%
   mutate(across(everything(), ~ ifelse(is.na(.), "", .)))
 

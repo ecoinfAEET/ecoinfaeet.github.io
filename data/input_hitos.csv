@@ -1,0 +1,68 @@
+﻿month,year,type,link,titulo
+1,2016,Creación del grupo de Ecoinformática,https://doi.org/10.7818/ECOS.2016.25-1.17,
+3,2017,Notas ecoinformáticas,https://doi.org/10.7818/ECOS.2017.26-1.20,"rOpenSci: cómo acceder 
+de forma reproducible a repositorios 
+de datos públicos"
+6,2017,Notas ecoinformáticas,https://doi.org/10.7818/ECOS.2017.26-2.08,"Ajuste, interpretación y presentación de 
+modelos lineales: el valor p no es suficiente"
+11,2017,Notas ecoinformáticas,https://doi.org/10.7818/ECOS.2017.26-3.14,"Procesadores de texto Markup: 
+más allá de MS Word"
+3,2018,Notas ecoinformáticas,https://doi.org/10.7818/ECOS.1570,"Sobre el intercambio de datos de vegetación: 
+el estándar ‘Veg-X’ y el paquete de R ‘VegX’"
+7,2018,Notas ecoinformáticas,https://doi.org/10.7818/ECOS.1604,"¿Por qué usar GitHub? Diez pasos para 
+disfrutar de GitHub y no morir en el intento"
+6,2018,Notas ecoinformáticas,https://doi.org/10.7818/ECOS.1591,"Ventajas de la estadística bayesiana frente 
+a la frecuentista: ¿por qué nos resistimos a usarla?"
+3,2019,Notas ecoinformáticas,https://doi.org/10.7818/ECOS.1699,"Inferencia estadística a partir de varios 
+modelos y su utilidad en ecología"
+11,2019,Notas ecoinformáticas,https://doi.org/10.7818/ECOS.1880,Cómo escribir funciones en R
+2,2020,Notas ecoinformáticas,https://doi.org/10.7818/ECOS.1948,Cómo crear paquetes en R
+10,2019,Notas ecoinformáticas,https://doi.org/10.7818/ECOS.1838,"Compartiendo datos en Ecología: 
+cómo añadir más valor a los datos"
+5,2020,Notas ecoinformáticas,https://doi.org/10.7818/ECOS.1995,Estadística circular aplicada a la Ecología
+12,2020,Notas ecoinformáticas,https://doi.org/10.7818/ECOS.2129,"Quince consejos para mejorar nuestro 
+código y flujo de trabajo con R"
+6,2021,Notas ecoinformáticas,https://doi.org/10.7818/ECOS.2256,"Cómo aplicar la cienciometría 
+a la investigación ecológica"
+12,2021,Notas ecoinformáticas,https://doi.org/10.7818/ECOS.2332,"¡Se puede entender cómo 
+funcionan Git y GitHub!"
+2,2023,Notas ecoinformáticas,https://doi.org/10.7818/ECOS.2527,"La unión hace la fuerza: 
+modelos de distribución de especies 
+integrando diferentes fuentes de datos"
+10,2023,Reunión del grupo Almería,,
+6,2024,Notas ecoinformáticas,https://doi.org/10.7818/ECOS.2797,"Camelot: Una herramienta intuitiva 
+para el manejo y procesamiento de imágenes de 
+cámaras trampa utilizando inteligencia artificial"
+8,2024,Notas ecoinformáticas,https://doi.org/10.7818/ECOS.2745,"Tidyverse: colección de paquetes 
+de R para la ciencia de datos"
+10,2024,Primeras Jornadas Ecoinformáticas ,https://ecoinf.quarto.pub/iecoinf/,
+1,2022,Seminarios,https://www.youtube.com/watch?v=VSUEi50tkAI,"Búsqueda, descarga y limpieza 
+de datos desde GBIF"
+2,2022,Seminarios,https://www.youtube.com/watch?v=usB7reMJxLU,Estadística bayesiana
+3,2022,Seminarios,https://www.youtube.com/watch?v=OKEtldANpHA,"Análisis de la ciencia ciudadana 
+mediante modelos de ocupación"
+5,2022,Seminarios,https://www.youtube.com/watch?v=niPkyIrEv-k,"Generación de visores de 
+datos espaciales con R"
+6,2022,Seminarios,https://www.youtube.com/watch?v=oAC7DVWAMRc,Análisis de dinámicas poblacionales en R
+7,2022,Seminarios,https://www.youtube.com/watch?v=0_73g05Wjgc,Introducción a Python
+9,2022,Seminarios,https://www.youtube.com/watch?v=ybD4GM_OB3M,"Integración de datos en la estima 
+de la distribución y abundancia animal"
+10,2022,Seminarios,https://www.youtube.com/watch?v=1ye4v3ugAfc,"Introducción al análisis 
+espacial de patrones de puntos"
+11,2022,Seminarios,https://www.youtube.com/watch?v=ZwKuy6E-GhE,Introducción al mundo de la bioacústica
+3,2023,Seminarios,https://www.youtube.com/watch?v=nkEM6ny_E9U,Introducción a Zotero
+5,2023,Seminarios,https://www.youtube.com/watch?v=C9Gyah5XES0,Introducción al uso de filogenias
+9,2023,Seminarios,https://www.youtube.com/watch?v=Fy5YNSe-btA,Regímenes dinámicos ecológicos
+1,2024,Seminarios,https://www.youtube.com/watch?v=CPimYLdDI5o,labeleR: genera tus certificados y etiquetas
+3,2024,Seminarios,https://www.youtube.com/watch?v=vzjqLjKOPPM,"¿Qué información puedo obtener 
+de los datos PNOA-LiDAR?"
+4,2024,Seminarios,https://www.youtube.com/watch?v=KLN2wMnivVA,"Inferir rango de distribución a 
+partir de diversidad genética"
+5,2024,Seminarios,https://www.youtube.com/watch?v=txJfuPeodQw,"El papel de la IA en la ecología, 
+cómo transformar imágenes en datos"
+1,2025,Seminarios,https://www.youtube.com/watch?v=XCrrR3_MSHc,"BlueCarbon R package: get stocks and sequestration 
+rates estimations directly from raw laboratory data"
+2,2025,Seminarios,https://youtu.be/K94y_zAGLmc?si=CWGMofxry_pUcRt6,Análisis de textos con R: ejemplos útiles para la ecología
+4,2025,Seminarios,https://youtu.be/ck6rzzSy4kE,OCCUR Shiny app: flujo de trabajo para validar registros de especies
+6,2025,Reunión del grupo Pontevedra,,
+,,,,
