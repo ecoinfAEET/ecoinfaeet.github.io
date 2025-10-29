@@ -11,7 +11,8 @@ format:
 
 ## Seminario 19. OCCUR Shiny app: flujo de trabajo para validar registros de especies
 
--   [OCCUR Shiny app: La importancia de establecer un flujo de trabajo apropiado para validar registros de presencia de especies](https://youtu.be/ck6rzzSy4kE)
+-   [OCCUR Shiny app: La importancia de establecer un flujo de trabajo apropiado para validar registros de presencia de especies](https://youtu.be/ck6rzzSy4kE) \ 
+{{< video https://youtu.be/ck6rzzSy4kE >}}
 
     -   Impartido por: Cristina Ronquillo
 
@@ -27,7 +28,8 @@ format:
 
 ## Seminario 18. Análisis de textos con R: ejemplos útiles para la ecología
 
--   [Análisis de textos con R: ejemplos útiles para la ecología](https://youtu.be/K94y_zAGLmc)
+-   [Análisis de textos con R: ejemplos útiles para la ecología](https://youtu.be/K94y_zAGLmc) \ 
+{{< video https://youtu.be/K94y_zAGLmc >}}
 
     -   Impartido por: Elena Velado Alonso
 
@@ -39,7 +41,8 @@ format:
 
 ## Seminario 17. BlueCarbon R package: get stocks and sequestration rates estimations directly from raw laboratory data
 
--   [BlueCarbon R package: get stocks and sequestration rates estimations directly from raw laboratory data](https://www.youtube.com/watch?v=XCrrR3_MSHc)
+-   [BlueCarbon R package: get stocks and sequestration rates estimations directly from raw laboratory data](https://www.youtube.com/watch?v=XCrrR3_MSHc) \ 
+{{< video https://www.youtube.com/watch?v=XCrrR3_MSHc >}}
 
     -   Impartido por: Nerea Piñeiro Juncal
 
@@ -49,7 +52,8 @@ format:
 
 ## Seminario 16. El papel de la IA en la ecología, cómo transformar imágenes en datos
 
--   [El papel de la IA en la ecología, cómo transformar imágenes en datos: Opciones, desafíos y soluciones](https://www.youtube.com/watch?v=txJfuPeodQw)
+-   [El papel de la IA en la ecología, cómo transformar imágenes en datos: Opciones, desafíos y soluciones](https://www.youtube.com/watch?v=txJfuPeodQw) \ 
+{{< video https://www.youtube.com/watch?v=txJfuPeodQw >}}
 
     -   Impartido por: Alba Márquez-Rodríguez y Antón Álvarez
 
@@ -67,7 +71,8 @@ format:
 
 ## Seminario 15. Inferir rango de distribución a partir de diversidad genética
 
--   [Inferencias de rango a partir de la distribución geográfica de la diversidad genética de las especies](https://www.youtube.com/watch?v=KLN2wMnivVA)
+-   [Inferencias de rango a partir de la distribución geográfica de la diversidad genética de las especies](https://www.youtube.com/watch?v=KLN2wMnivVA) \ 
+{{< video https://www.youtube.com/watch?v=KLN2wMnivVA >}}
 
     -   Impartido por: Alejandro Llanos-Garrido, Universidad Complutense de Madrid
 
@@ -77,7 +82,8 @@ format:
     
 ## Seminario 14. ¿Qué información puedo obtener de los datos PNOA-LiDAR?
 
--   [¿Qué información puedo obtener de los datos abiertos PNOA-LiDAR para caracterizar mi zona de estudio?](https://www.youtube.com/watch?v=vzjqLjKOPPM)
+-   [¿Qué información puedo obtener de los datos abiertos PNOA-LiDAR para caracterizar mi zona de estudio?](https://www.youtube.com/watch?v=vzjqLjKOPPM) \ 
+{{< video https://www.youtube.com/watch?v=vzjqLjKOPPM >}}
 
     -   Impartido por: Marina Rodes-Blanco, Universidad de Alcalá
 
@@ -87,7 +93,8 @@ format:
 
 ## Seminario 13. labeleR: genera tus certificados y etiquetas
 
--   [Taller de labeleR: cómo generar etiquetas científicas, certificados para eventos y mucho más en R](https://www.youtube.com/watch?v=CPimYLdDI5o)
+-   [Taller de labeleR: cómo generar etiquetas científicas, certificados para eventos y mucho más en R](https://www.youtube.com/watch?v=CPimYLdDI5o) \ 
+{{< video https://www.youtube.com/watch?v=CPimYLdDI5o >}}
 
     -   Impartido por: Julia G. de Aledo, Universidad Autónoma de Madrid
 
@@ -101,7 +108,8 @@ format:
 
 ## Seminario 12. Regímenes dinámicos ecológicos
 
--   [Regímenes dinámicos ecológicos: identificación, caracterización y comparación](https://www.youtube.com/watch?v=Fy5YNSe-btA)
+-   [Regímenes dinámicos ecológicos: identificación, caracterización y comparación](https://www.youtube.com/watch?v=Fy5YNSe-btA) \ 
+{{< video https://www.youtube.com/watch?v=Fy5YNSe-btA >}}
 
     -   Impartido por: Martina Sánchez Pinillos, Université de Montpellier / Université du Québec à Montréal (UQAM)
 
@@ -115,7 +123,8 @@ format:
 
 ## Seminario 11. Introducción al uso de filogenias
 
--   [Introducción al uso de filogenias en Ecología. El paquete randtip como método de abordar la incompletitud filogenética](https://www.youtube.com/watch?v=C9Gyah5XES0)
+-   [Introducción al uso de filogenias en Ecología. El paquete randtip como método de abordar la incompletitud filogenética](https://www.youtube.com/watch?v=C9Gyah5XES0) \ 
+{{< video https://www.youtube.com/watch?v=C9Gyah5XES0 >}}
 
     -   Impartido por: Ignacio Ramos, Universidad Autónoma de Madrid
 
@@ -131,7 +140,8 @@ format:
 
 ## Seminario 10. Introducción a Zotero
 
--   [Introducción a Zotero: cómo organizar nuestras referencias de forma accesible y cómo citar fácilmente en R con Quarto/RMarkdown](https://www.youtube.com/watch?v=nkEM6ny_E9U)
+-   [Introducción a Zotero: cómo organizar nuestras referencias de forma accesible y cómo citar fácilmente en R con Quarto/RMarkdown](https://www.youtube.com/watch?v=nkEM6ny_E9U) \ 
+{{< video https://www.youtube.com/watch?v=nkEM6ny_E9U >}}
 
     -   Impartido por: Darío San Segundo Molina, Universidad de Alcalá, Madrid
 
@@ -145,7 +155,8 @@ format:
 
 ## Seminario 9. Introducción al mundo de la bioacústica
 
--   [Introducción al mundo de la bioacústica y aplicaciones metodológicas. ¡Escucha qué dicen tus datos!](https://www.youtube.com/watch?v=ZwKuy6E-GhE)
+-   [Introducción al mundo de la bioacústica y aplicaciones metodológicas. ¡Escucha qué dicen tus datos!](https://www.youtube.com/watch?v=ZwKuy6E-GhE) \ 
+{{< video https://www.youtube.com/watch?v=ZwKuy6E-GhE >}}
 
     -   Impartido por: Elena Tena, Estación Biológica de Doñana - CSIC, Sevilla
 
@@ -155,7 +166,8 @@ format:
 
 ## Seminario 8. Introducción al análisis espacial de patrones de puntos
 
--   [Introducción al análisis espacial de patrones de puntos. ¿Qué hago con mis coordenadas espaciales?](https://www.youtube.com/watch?v=1ye4v3ugAfc)
+-   [Introducción al análisis espacial de patrones de puntos. ¿Qué hago con mis coordenadas espaciales?](https://www.youtube.com/watch?v=1ye4v3ugAfc) \ 
+{{< video https://www.youtube.com/watch?v=1ye4v3ugAfc >}}
 
     -   Impartido por: Antonio Perea Martos, Estación Experimental del Zaidín - CSIC, Granada
 
@@ -165,7 +177,8 @@ format:
 
 ## Seminario 7. Integración de datos en la estima de la distribución y abundancia animal
 
--   [Integración de datos en la estima de la distribución y abundancia animal](https://www.youtube.com/watch?v=ybD4GM_OB3M)
+-   [Integración de datos en la estima de la distribución y abundancia animal](https://www.youtube.com/watch?v=ybD4GM_OB3M) \ 
+{{< video https://www.youtube.com/watch?v=ybD4GM_OB3M >}}
 
     -   Impartido por: Javier Fernández-López, CEFE - UCM (Montpellier, Francia)
 
@@ -177,7 +190,8 @@ format:
 
 ## Seminario 6. Introducción a Python
 
--   [Introducción al análisis de datos con Python](https://www.youtube.com/watch?v=0_73g05Wjgc)
+-   [Introducción al análisis de datos con Python](https://www.youtube.com/watch?v=0_73g05Wjgc) \ 
+{{< video https://www.youtube.com/watch?v=0_73g05Wjgc >}}
 
     -   Impartido por: Virginia Domínguez-García, Estación Biológica de Doñana - CSIC, Sevilla
 
@@ -189,7 +203,8 @@ format:
 
 ## Seminario 5. Análisis de dinámicas poblacionales en R
 
--   [Análisis de dinámicas poblacionales en R](https://www.youtube.com/watch?v=oAC7DVWAMRc)
+-   [Análisis de dinámicas poblacionales en R](https://www.youtube.com/watch?v=oAC7DVWAMRc) \ 
+{{< video https://www.youtube.com/watch?v=oAC7DVWAMRc >}}
 
     -   Impartido por: David García-Callejas, Landcare Research New Zealand, University of Canterbury
 
@@ -201,7 +216,8 @@ format:
 
 ## Seminario 4. Generación de visores de datos espaciales con R
 
--   [Generación de visores de datos espaciales con R](https://www.youtube.com/watch?v=niPkyIrEv-k)
+-   [Generación de visores de datos espaciales con R](https://www.youtube.com/watch?v=niPkyIrEv-k) \ 
+{{< video https://www.youtube.com/watch?v=niPkyIrEv-k >}}
 
     -   Impartido por: Antonio J. Pérez-Luque, Estación Experimental del Zaidín CSIC, Granada
 
@@ -217,7 +233,8 @@ format:
 
 ## Seminario 3. Análisis de la ciencia ciudadana mediante modelos de ocupación
 
--   [Análisis de la ciencia ciudadana mediante modelos de ocupación](https://www.youtube.com/watch?v=OKEtldANpHA)
+-   [Análisis de la ciencia ciudadana mediante modelos de ocupación](https://www.youtube.com/watch?v=OKEtldANpHA) \ 
+{{< video https://www.youtube.com/watch?v=OKEtldANpHA >}}
 
     -   Impartido por: Guillermo Fandos Guzmán, Universidad Complutense de Madrid
 
@@ -229,7 +246,8 @@ format:
 
 ## Seminario 2. Estadística bayesiana
 
--   [Estadística bayesiana: principios, teorema de bayes y su aplicación](https://www.youtube.com/watch?v=usB7reMJxLU)
+-   [Estadística bayesiana: principios, teorema de bayes y su aplicación](https://www.youtube.com/watch?v=usB7reMJxLU) \ 
+{{< video https://www.youtube.com/watch?v=usB7reMJxLU >}}
 
     -   Impartido por: Paloma Ruiz-Benito e Ignacio Morales-Castilla, Universidad de Alcalá (UAH), Madrid - grupo de EcoBayesUAH
 
@@ -239,7 +257,8 @@ format:
 
 ## Seminario 1. Búsqueda, descarga y limpieza de datos desde GBIF
 
--   [Búsqueda, descarga y limpieza de datos de biodiversidad desde GBIF. Una odisea ecoinformática](https://www.youtube.com/watch?v=VSUEi50tkAI)
+-   [Búsqueda, descarga y limpieza de datos de biodiversidad desde GBIF. Una odisea ecoinformática](https://www.youtube.com/watch?v=VSUEi50tkAI) \ 
+{{< video https://www.youtube.com/watch?v=VSUEi50tkAI >}}
 
     -   Impartido por: Carlos Lara Romero, Universidad Rey Juan Carlos, Madrid
 
