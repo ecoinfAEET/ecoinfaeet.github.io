@@ -13,10 +13,12 @@ website:
         text: Inicio
       - href: miembros.qmd
         text: Miembros
-      - href: notas-ecoinformaticas.qmd
-        text: Notas Ecoinformáticas
-      - href: notas-english.qmd
-        text: Ecoinformatics Notes
+      - text: Notas Ecoinformáticas<br>Ecoinformatics Notes
+        menu: 
+          - text: "Notas Ecoinformáticas"
+            href: notas-ecoinformaticas.qmd
+          - text: "Ecoinformatics Notes"
+            href: notas-english.qmd
       - href: seminarios.qmd
         text: Seminarios
       - text: Actividades
