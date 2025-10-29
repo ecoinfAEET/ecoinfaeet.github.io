@@ -5,7 +5,7 @@ library(htmltools)
 library(dplyr)
 
 # Cargar los datos desde un archivo Excel (reemplaza "datos.xlsx" con tu archivo real)
-datos <- read_excel("input_hitos.xlsx")
+datos <- read_excel("data/input_hitos.xlsx")
 datos <- datos %>%
   mutate(across(everything(), ~ ifelse(is.na(.), "", .)))
 
@@ -23,6 +23,7 @@ colores <- c("#2C5530", "#739E82", "#669BBC", "#D38B5D")
 datos <- datos %>%
   mutate(color = case_when(
     type == "Creación del grupo de Ecoinformática" ~ colores[1],
+    grepl("Reunión del grupo", type) ~ colores[1],
     type == "Primeras Jornadas Ecoinformáticas" ~ colores[2],
     type == "Notas ecoinformáticas" ~ colores[3],
     type == "Seminarios" ~ colores[4],
