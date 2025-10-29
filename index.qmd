@@ -4,11 +4,14 @@ title: ""
 
 <br>
 
-```{r}
+```{r, echo=F, warning=F, message=F}
 #| out.width = "100%",
 #| fig.height = 1,
 #| echo = FALSE
 knitr::include_graphics("images/ecoinf_10.jpg")
+
+
+source("R/hitos.R")
 ```
 
 <br>
