@@ -49,7 +49,7 @@ Thank you all for participating!
 
 ## Ecoinformatics Notes published in English
 
-<!---poner la de labeller--->
+-   [labeleR: an R package to optimize the generation of collection labels and scientific documents](https://revistaecosistemas.net/index.php/ecosistemas/article/view/3060)
 
 
 <br>

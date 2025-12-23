@@ -47,6 +47,8 @@ Para la escritura de la nota, recomendamos la utilización de la [plantilla de R
 
 ## Notas Ecoinformáticas publicadas
 
+-   [eidosapi, un paquete de R para interactuar con la base de datos de biodiversidad EIDOS](https://revistaecosistemas.net/index.php/ecosistemas/article/view/3134)
+
 -   [Tidyverse: colección de paquetes de R para la ciencia de datos](https://doi.org/10.7818/ECOS.2745)
 
 -   [Camelot: Una herramienta intuitiva para el manejo y procesamiento de imágenes de cámaras trampa utilizando inteligencia artificial](https://doi.org/10.7818/ECOS.2797)
