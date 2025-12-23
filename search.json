@@ -1,10 +1,136 @@
 [
   {
-    "objectID": "activ_medecos2017.html",
-    "href": "activ_medecos2017.html",
-    "title": "Actividades del grupo de Ecoinformática en MEDECOS-AEET",
-    "section": "",
-    "text": "Estas son las actividades que hemos preparado desde el grupo de Ecoinformática para el congreso MEDECOS-AEET:\n\nSimposio sobre ‘Ecoinformatics: data science brings new avenues for ecology’. Viernes 3 11:30 - 13:00.\nTaller sobre ‘Reproducible science with Rmarkdown’. Viernes 3 14:00 - 15:30.\nTaller sobre ‘Easy collaboration and version control with Git and GitHub’. Viernes 3 14:00 - 15:30.\n¡Y nuestra primera asamblea! El jueves 2 de 13:30 a 14:30 en el aula TIC1 del edificio CRAI (mapa)\n\nToda la información está en la página web del congreso: http://www.medecos-aeet-meeting2017.es/\n¡Esperamos vuestra participación!\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+    "objectID": "seminarios.html#seminario-19.-occur-shiny-app-flujo-de-trabajo-para-validar-registros-de-especies",
+    "href": "seminarios.html#seminario-19.-occur-shiny-app-flujo-de-trabajo-para-validar-registros-de-especies",
+    "title": "Seminarios",
+    "section": "Seminario 19. OCCUR Shiny app: flujo de trabajo para validar registros de especies",
+    "text": "Seminario 19. OCCUR Shiny app: flujo de trabajo para validar registros de especies\n\nOCCUR Shiny app: La importancia de establecer un flujo de trabajo apropiado para validar registros de presencia de especies  \n\n\n-   Impartido por: Cristina Ronquillo\n\n-   Resumen: Numerosos estudios a gran escala en biogeografía y macroecología son desarrollados a partir  de  los  registros  de  presencia  de biodiversidad publicados en repositorios abiertos. Sin embargo, estos datos no deben analizarse directamente por los sesgos y errores que contienen y el personal de investigación debe enfrentarse al desafío de validarlos  previamente.  En  este  seminario  se  presentará  la guía interactiva OCCUR como un recurso valioso para integrar el control de calidad de datos en flujos de trabajo analíticos y contextos educativos. OCCUR es una aplicación Shiny diseñada para guiar en el tratamiento, limpieza  y  validación  de  datos  de  biodiversidad  que  busca  definir protocolos  estandarizados  de  curación  de  datos  que  garanticen la reproducibilidad  y  comparabilidad  de  los  estudios.  Esta  aplicación integra  librerías  de  R  con  código  básico,  permitiendo  documentar cada  paso  del  proceso  y  explorar  los  compromisos  entre  la certidumbre  y  la  cobertura  de  los  datos.  Aprovecharemos  también para mostrar algunos ejemplos de errores típicos que pueden estar ocultos en los registros de las bases de datos y se comentarán algunos casos en los que se ha aplicado el flujo de trabajo de OCCUR.\n\n-   Enlaces de interés:\n\n    -   https://ecoinformatic.shinyapps.io/OCCUR \n    -   https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14271 \n    -   https://onlinelibrary.wiley.com/doi/10.1002/ece3.10786 \n\n-   Fecha: 8 abril 2025"
+  },
+  {
+    "objectID": "seminarios.html#seminario-18.-análisis-de-textos-con-r-ejemplos-útiles-para-la-ecología",
+    "href": "seminarios.html#seminario-18.-análisis-de-textos-con-r-ejemplos-útiles-para-la-ecología",
+    "title": "Seminarios",
+    "section": "Seminario 18. Análisis de textos con R: ejemplos útiles para la ecología",
+    "text": "Seminario 18. Análisis de textos con R: ejemplos útiles para la ecología\n\nAnálisis de textos con R: ejemplos útiles para la ecología  \n\n\n-   Impartido por: Elena Velado Alonso\n\n-   Resumen: Trabajar con caracteres (string data) en R suele ser percibido como una tarea ardua por muchos usuarios. Esto, en ocasiones, limita la reproducibilidad de los flujos de trabajo en ecología. En este seminario trabajaremos en el análisis de textos bajo la filosofía tidy con ejemplos útiles para la investigación ecológica y socio-ecológica. Para ello repasaremos conceptos básicos del trabajo con caracteres en R, incluyendo funciones de R base y del paquete stringr. Posteriormente, aprenderemos a leer archivos pdf y a limpiar textos para su posterior análisis. Se presentarán ejemplos prácticos para la limpieza automática de nombres taxonómicos, la realización de gráficos de nubes de palabras, y cálculos simples como las frecuencias de palabras en textos o la correlación ente palabras para el análisis del contenido.\n\n-   Link a GitHub con el script y datos: &lt;https://github.com/elenavelado/TextAnalysis4Ecology&gt;\n\n-   Fecha: 26 febrero 2025"
+  },
+  {
+    "objectID": "seminarios.html#seminario-17.-bluecarbon-r-package-get-stocks-and-sequestration-rates-estimations-directly-from-raw-laboratory-data",
+    "href": "seminarios.html#seminario-17.-bluecarbon-r-package-get-stocks-and-sequestration-rates-estimations-directly-from-raw-laboratory-data",
+    "title": "Seminarios",
+    "section": "Seminario 17. BlueCarbon R package: get stocks and sequestration rates estimations directly from raw laboratory data",
+    "text": "Seminario 17. BlueCarbon R package: get stocks and sequestration rates estimations directly from raw laboratory data\n\nBlueCarbon R package: get stocks and sequestration rates estimations directly from raw laboratory data  \n\n\n-   Impartido por: Nerea Piñeiro Juncal\n\n-   Resumen: The goal of the BlueCarbon R package is to facilitate the estimation of organic carbon stocks and sequestration rates from soil/sediment cores from blue carbon ecosystems. It can also be used to estimate stocks for any soil/sediment data, and to estimate sequestration rates for any soil/sediment data from depositional environments. It contains seven main functions to estimate the compaction of cores, mathematically correct core compaction, estimate sample thickness, estimate organic carbon content from organic matter content, estimate organic carbon stocks and sequestration rates and visualize the error of stock extrapolation. In this webinar we will learn how each function works and how to use them to obtain stocks and sequestration rates estimations directly from raw laboratory data. This R package is openly available in GitHub: &lt;https://ecologyr.github.io/BlueCarbon/&gt;.\n\n-   Fecha: 28 enero 2025"
+  },
+  {
+    "objectID": "seminarios.html#seminario-16.-el-papel-de-la-ia-en-la-ecología-cómo-transformar-imágenes-en-datos",
+    "href": "seminarios.html#seminario-16.-el-papel-de-la-ia-en-la-ecología-cómo-transformar-imágenes-en-datos",
+    "title": "Seminarios",
+    "section": "Seminario 16. El papel de la IA en la ecología, cómo transformar imágenes en datos",
+    "text": "Seminario 16. El papel de la IA en la ecología, cómo transformar imágenes en datos\n\nEl papel de la IA en la ecología, cómo transformar imágenes en datos: Opciones, desafíos y soluciones  \n\n\n-   Impartido por: Alba Márquez-Rodríguez y Antón Álvarez\n\n-   Resumen: El seminario pretende explorar la creciente intersección entre la inteligencia artificial (IA) y la ecología, centrándose en cómo la IA puede transformar imágenes en datos para impulsar la investigación y la conservación de la naturaleza. El seminario aborda la definición de IA y su relevancia en el contexto ecológico, destacando casos prácticos que ilustran su aplicación en la recolección y análisis de datos ecológicos. El objetivo principal de la charla es familiarizar a las personas participantes con el potencial y las aplicaciones prácticas de la IA en el campo de la ecología. Se discutirán herramientas y técnicas específicas de IA que ya están disponibles y se exploran errores comunes que suelen cometerse desde la perspectiva de la ecología al utilizar estas tecnologías. Además, se enfatiza la importancia de una colaboración interdisciplinaria entre ecólogos y expertos en IA para abordar los desafíos ambientales de manera efectiva. En resumen, la charla busca inspirar a los participantes a considerar cómo la IA puede mejorar y ampliar su trabajo en la conservación y comprensión de los ecosistemas naturales.\n\n-   Links a webs de IA surgidas durante las preguntas:\n\n    -   &lt;https://github.com/agentmorris/Awesome-Remote-Sensing-Foundation-Models&gt;\n    -   &lt;https://github.com/agentmorris/camera-trap-ml-survey&gt;\n    -   &lt;https://addaxdatascience.com/ecoassist/&gt;\n    -   &lt;https://huggingface.co/docs/transformers/model_doc/grounding-dino&gt;\n    -   &lt;https://aiforconservation.slack.com/join/shared_invite/zt-2jxl41cwx-TBbsOOcvTEvh0JKdu5JaJg#/shared-invite/email&gt;\n    \n-   Fecha: 29 mayo 2024"
+  },
+  {
+    "objectID": "seminarios.html#seminario-15.-inferir-rango-de-distribución-a-partir-de-diversidad-genética",
+    "href": "seminarios.html#seminario-15.-inferir-rango-de-distribución-a-partir-de-diversidad-genética",
+    "title": "Seminarios",
+    "section": "Seminario 15. Inferir rango de distribución a partir de diversidad genética",
+    "text": "Seminario 15. Inferir rango de distribución a partir de diversidad genética\n\nInferencias de rango a partir de la distribución geográfica de la diversidad genética de las especies  \n\n\n-   Impartido por: Alejandro Llanos-Garrido, Universidad Complutense de Madrid\n\n-   Resumen: Durante la expansión histórica del rango de distribución de una especie, los individuos que van colonizando nuevos ambientes se enfrentan a diferentes retos ecológicos. Lo capaces que son esos individuos de tener éxito en la expansión debe depender inequívocamente de lo adaptados que estén a los nuevos ambientes. Las herramientas de las que dispone un individuo para sobreponerse a estos retos se traducen en diversidad genética adaptativa. Por tanto, los rangos de distribución de una especie deben estar estrechamente relacionados con la cantidad total de variación genética adaptativa de esa especie. En este seminario, a partir de genomas de unas pocas poblaciones que ocupen un gradiente climático representativo del rango de distribución de una especie, identificaremos la porción de diversidad genética sujeta a selección natural (i.e., responsable de adaptaciones), y lo relacionaremos con la diversidad ambiental que ocupa. Extrapolando el modelo que surja de establecer esa relación, es posible saber qué ambientes puede ocupar una cantidad de diversidad genética adaptativa concreta, inferir el rango de distribución de la especie a partir de esta información y conocer los determinantes intrínsecos a la especie que restringen o favorecen la expansión o contracción de su rango.\n\n-   Fecha: 9 Abril 2024"
+  },
+  {
+    "objectID": "seminarios.html#seminario-14.-qué-información-puedo-obtener-de-los-datos-pnoa-lidar",
+    "href": "seminarios.html#seminario-14.-qué-información-puedo-obtener-de-los-datos-pnoa-lidar",
+    "title": "Seminarios",
+    "section": "Seminario 14. ¿Qué información puedo obtener de los datos PNOA-LiDAR?",
+    "text": "Seminario 14. ¿Qué información puedo obtener de los datos PNOA-LiDAR?\n\n¿Qué información puedo obtener de los datos abiertos PNOA-LiDAR para caracterizar mi zona de estudio?  \n\n\n-   Impartido por: Marina Rodes-Blanco, Universidad de Alcalá\n\n-   Resumen: LiDAR es una técnica de teledetección activa que utiliza la luz de un láser y registra coordenadas tridimensionales de la superficie de la tierra. El proyecto PNOA-LiDAR captura, a nivel nacional, esta información mediante sensores aerotransportados y pone los datos a disposición en el portal de descargas del IGN de manera totalmente gratuita. El objetivo de este seminario es explicar las características generales de este tipo de datos, los formatos en los que se encuentra y la utilización del paquete lidR para extraer información del terreno y de la masa arbórea con la finalidad de caracterizar un área de estudio determinada.\n\n-   Fecha: 13 Marzo 2024"
+  },
+  {
+    "objectID": "seminarios.html#seminario-13.-labeler-genera-tus-certificados-y-etiquetas",
+    "href": "seminarios.html#seminario-13.-labeler-genera-tus-certificados-y-etiquetas",
+    "title": "Seminarios",
+    "section": "Seminario 13. labeleR: genera tus certificados y etiquetas",
+    "text": "Seminario 13. labeleR: genera tus certificados y etiquetas\n\nTaller de labeleR: cómo generar etiquetas científicas, certificados para eventos y mucho más en R  \n\n\n-   Impartido por: Julia G. de Aledo, Universidad Autónoma de Madrid\n\n-   Resumen: El paquete de R labeleR que tiene como objetivo generar etiquetas de herbario, etiquetas para distintos tipos de colecciones, certificados de asistencia y participación a eventos, acreditaciones, etc. Esta herramienta es altamente accesible y permite la generación de etiquetas y otros documentos de manera automatizada a partir de extensas bases de datos, simplificando significativamente procesos repetitivos y de larga duración. Las funciones incorporadas permiten seleccionar la base de datos de origen, introducir QRs, añadir logos y personalizar campos de contenido según cada necesidad. En esta charla explicaremos el funcionamiento del paquete y haremos un taller sobre cómo utilizar sus funciones, contestando las dudas que surjan. El paquete está disponible para su uso de manera abierta en GitHub, y cuenta con un tutorial de uso.\n\n-   Tutorial de labeleR: &lt;https://ecologyr.github.io/labeleR/&gt;\n\n-   Repositorio para empezar: &lt;https://github.com/juliagdealedo/labeleR_workshop&gt;\n\n-   Fecha: 25 Enero 2024"
+  },
+  {
+    "objectID": "seminarios.html#seminario-12.-regímenes-dinámicos-ecológicos",
+    "href": "seminarios.html#seminario-12.-regímenes-dinámicos-ecológicos",
+    "title": "Seminarios",
+    "section": "Seminario 12. Regímenes dinámicos ecológicos",
+    "text": "Seminario 12. Regímenes dinámicos ecológicos\n\nRegímenes dinámicos ecológicos: identificación, caracterización y comparación  \n\n\n-   Impartido por: Martina Sánchez Pinillos, Université de Montpellier / Université du Québec à Montréal (UQAM)\n\n-   Resumen: Entender cómo cambian los ecosistemas a lo largo del tiempo es una cuestión que ha despertado gran interés entre ecólogos y naturalistas de todas las épocas. Sin embargo, caracterizar cuantitativamente las dinámicas ecológicas sigue siendo un reto debido a la gran complejidad de los sistemas ecológicos y a la falta de datos que permitan evaluar el estado de los sistemas durante largos periodos de tiempo. En este seminario, se introducirá un conjunto de análisis y métricas implementadas en R para identificar, caracterizar y comparar regímenes dinámicos a partir de grandes bases de datos.\n\n-   Link a repo de GitHub: &lt;https://github.com/MSPinillos/ecoregime_tutorial&gt;\n\n-   Link a zenodo: &lt;https://zenodo.org/record/8388777&gt;\n\n-   Fecha: 28 Septiembre 2023"
+  },
+  {
+    "objectID": "seminarios.html#seminario-11.-introducción-al-uso-de-filogenias",
+    "href": "seminarios.html#seminario-11.-introducción-al-uso-de-filogenias",
+    "title": "Seminarios",
+    "section": "Seminario 11. Introducción al uso de filogenias",
+    "text": "Seminario 11. Introducción al uso de filogenias\n\nIntroducción al uso de filogenias en Ecología. El paquete randtip como método de abordar la incompletitud filogenética  \n\n\n-   Impartido por: Ignacio Ramos, Universidad Autónoma de Madrid\n\n-   Resumen: La inclusión de filogenias es un aspecto clave en Ecología, puesto que trata la historia evolutiva de distintos taxones como un gradiente, y no como unidades independientes. En la primera parte de este seminario vamos a ver la importancia de incluir información filogenética en análisis ecológicos, qué oportunidades presenta, y problemáticas que conlleva. En una segunda parte se presentará una metodología para expandir filogenias incompletas utilizando información no molecular, y su aplicación a través del paquete de R *randtip*.\n\n-   Link a repo de GitHub: &lt;https://github.com/iramosgutierrez/randtip&gt;\n\n-   Link a manuscrito: &lt;https://www.biorxiv.org/content/10.1101/2022.01.04.474924v1&gt;\n\n-   Link a tutorial: &lt;https://www.biorxiv.org/content/biorxiv/early/2022/01/04/2022.01.04.474924/DC2/embed/media-2.pdf?download=false&gt;\n\n-   Fecha: 29 Mayo 2023"
+  },
+  {
+    "objectID": "seminarios.html#seminario-10.-introducción-a-zotero",
+    "href": "seminarios.html#seminario-10.-introducción-a-zotero",
+    "title": "Seminarios",
+    "section": "Seminario 10. Introducción a Zotero",
+    "text": "Seminario 10. Introducción a Zotero\n\nIntroducción a Zotero: cómo organizar nuestras referencias de forma accesible y cómo citar fácilmente en R con Quarto/RMarkdown  \n\n\n-   Impartido por: Darío San Segundo Molina, Universidad de Alcalá, Madrid\n\n-   Resumen: Organizar nuestra bibliografía de una forma eficiente, fácilmente accesible e integrarla en flujos de trabajo reproducibles (p. ej. RMarkdown o Quarto) supone muchas ventajas a la hora de integrar conocimiento científico, redactar manuscritos/proyectos y compartir referencias. Zotero es una herramienta de código abierto que facilita estas tareas. En este seminario, especialmente orientado para investigadores/as de ecología en etapas tempranas, veremos brevemente las funcionalidades principales de su interfaz, sus ventajas frente a otros gestores y el funcionamiento general de citas en procesadores de texto, deteniéndonos en cómo utilizarlo junto con Quarto/RMarkdown a través del visual editor mode para facilitar un flujo de trabajo reproducible. Por último, veremos algunos recursos adicionales como el acceso a cualquier artículo desde la interfaz vía SciHub , los Zotero-Groups y la sincronización cuasi-ilimitada de archivos entre dispositivos mediante nubes de almacenamiento.\n\n-   Link a repo de GitHub: &lt;https://github.com/dario-ssm/zote_r_o&gt;\n\n-   Link a diapositivas: &lt;https://dario-ssm.github.io/zote_r_o/#/title-slide&gt;\n\n-   Fecha: 20 Febrero 2023"
+  },
+  {
+    "objectID": "seminarios.html#seminario-9.-introducción-al-mundo-de-la-bioacústica",
+    "href": "seminarios.html#seminario-9.-introducción-al-mundo-de-la-bioacústica",
+    "title": "Seminarios",
+    "section": "Seminario 9. Introducción al mundo de la bioacústica",
+    "text": "Seminario 9. Introducción al mundo de la bioacústica\n\nIntroducción al mundo de la bioacústica y aplicaciones metodológicas. ¡Escucha qué dicen tus datos!  \n\n\n-   Impartido por: Elena Tena, Estación Biológica de Doñana - CSIC, Sevilla\n\n-   Resumen: Muchas especies se desplazan e interaccionan con el medio a partir del sonido. La bioacústica es una metodología no invasiva que nos permite detectar diferentes animales a través de su canto. Durante este seminario, veremos los principios básicos de la bioacústica y sus aplicaciones metodológicas. Aprenderemos a cómo registrar datos acústicos con diferentes detectores de sonido así como a gestionar y analizar dichos datos en base a diferentes parámetros acústicos. Concretamente, analizaremos algunos ejemplos de grabaciones de especies variadas con distintos software de sonido.\n\n-   Fecha: 29 Noviembre 2022"
+  },
+  {
+    "objectID": "seminarios.html#seminario-8.-introducción-al-análisis-espacial-de-patrones-de-puntos",
+    "href": "seminarios.html#seminario-8.-introducción-al-análisis-espacial-de-patrones-de-puntos",
+    "title": "Seminarios",
+    "section": "Seminario 8. Introducción al análisis espacial de patrones de puntos",
+    "text": "Seminario 8. Introducción al análisis espacial de patrones de puntos\n\nIntroducción al análisis espacial de patrones de puntos. ¿Qué hago con mis coordenadas espaciales?  \n\n\n-   Impartido por: Antonio Perea Martos, Estación Experimental del Zaidín - CSIC, Granada\n\n-   Resumen: Hubbell et al. en el año 2001 postularon que \"Cualquier mecanismo de coexistencia que esté operando en un bosque deja una huella espacial que puede ser detectada haciendo mapas individuales de las localizaciones\". Estas huellas espaciales vienen determinadas por la posición (X e Y) de los sujetos de estudios, y aportan pistas sobre los mecanismos que podrían estar operando en el ensamblaje de comunidades. Para analizar este tipo de huellas se requiere del uso del \"point pattern analysis\", una herramienta muy versátil y aplicable prácticamente a cualquier campo de la ecología que trabaje con localizaciones (puntos). Por tanto, el uso de este tipo de herramienta aporta una perspectiva añadida a los análisis estadísticos convencionales, evaluando el efecto de la distancia y la densidad en los procesos de interés. En este escenario veremos algunos ejemplos sobre las posibles aplicaciones de esta metodología, a la vez que se atenderán dudas según vayan surgiendo.\n\n-   Fecha: 24 Octubre 2022"
+  },
+  {
+    "objectID": "seminarios.html#seminario-7.-integración-de-datos-en-la-estima-de-la-distribución-y-abundancia-animal",
+    "href": "seminarios.html#seminario-7.-integración-de-datos-en-la-estima-de-la-distribución-y-abundancia-animal",
+    "title": "Seminarios",
+    "section": "Seminario 7. Integración de datos en la estima de la distribución y abundancia animal",
+    "text": "Seminario 7. Integración de datos en la estima de la distribución y abundancia animal\n\nIntegración de datos en la estima de la distribución y abundancia animal  \n\n\n-   Impartido por: Javier Fernández-López, CEFE - UCM (Montpellier, Francia)\n\n-   Resumen: Cada vez más a menudo disponemos de diferentes fuentes de datos con información complementaria acerca de la abundancia o distribución de las poblaciones animales: datos de fototrampeo, conteos directos, registros de presencia oportunistas... En este seminario veremos como la integración de datos en un marco de modelización jerárquica permite combinar estas distintas fuentes en único modelo para obtener estimas de abundancias más precisas.\n\n-   Link a repo de GitHub: &lt;https://github.com/jabiologo/aeetSeminario&gt;\n\n-   Fecha: 29 Septiembre 2022"
+  },
+  {
+    "objectID": "seminarios.html#seminario-6.-introducción-a-python",
+    "href": "seminarios.html#seminario-6.-introducción-a-python",
+    "title": "Seminarios",
+    "section": "Seminario 6. Introducción a Python",
+    "text": "Seminario 6. Introducción a Python\n\nIntroducción al análisis de datos con Python  \n\n\n-   Impartido por: Virginia Domínguez-García, Estación Biológica de Doñana - CSIC, Sevilla\n\n-   Resumen: La programación se está volviendo más y más importante para el análisis de datos en todas las disciplinas. Aunque en ecología el lenguaje de programación más utilizado es R, en ocasiones conocer otros lenguajes puede facilitarte la vida pues diferentes librerías están más desarrolladas en uno u otro lenguaje (por ejemplo el machine learning en Python). Este taller es una introducción al uso de Python para el análisis de datos, en el que se cubrirán: la lectura (y escritura) de datos desde ficheros, la limpieza y re-estructuración de dichos datos, su análisis usando estadísticas simples, y finalmente la representación de los resultados. Para poder ir realizando los ejercicios propuestos se recomienda tener instalado Python (preferiblemente con Anaconda &lt;https://www.anaconda.com/products/distribution&gt;) antes de iniciar el taller, pero si las personas asistentes encuentran problemas con la instalación cubriremos esto al inicio del taller también.\n\n-   Link a repo de GitHub: &lt;https://github.com/domgarvir/taller_python_data&gt;\n\n-   Fecha: 5 Julio 2022"
+  },
+  {
+    "objectID": "seminarios.html#seminario-5.-análisis-de-dinámicas-poblacionales-en-r",
+    "href": "seminarios.html#seminario-5.-análisis-de-dinámicas-poblacionales-en-r",
+    "title": "Seminarios",
+    "section": "Seminario 5. Análisis de dinámicas poblacionales en R",
+    "text": "Seminario 5. Análisis de dinámicas poblacionales en R\n\nAnálisis de dinámicas poblacionales en R  \n\n\n-   Impartido por: David García-Callejas, Landcare Research New Zealand, University of Canterbury\n\n-   Resumen: Las poblaciones de diferentes especies varían en respuesta a toda una serie de factores, y la ecología matemática ha ido desarrollando, desde hace más de un siglo, las herramientas para analizar estas dinámicas. En este seminario haremos un repaso de los fundamentos ecológicos de algunas de estas herramientas, desde modelos de crecimiento exponencial a dinámicas Lotka-Volterra, y veremos cómo implementarlas en R. Hablaremos de dinámicas de especies individuales y de especies con diferentes tipos de interacciones, repasando funciones para evaluar su estabilidad o para representarlas gráficamente.\n\n-   Link a repo de GitHub: &lt;https://github.com/garciacallejas/LV_dynamics&gt;\n\n-   Fecha: 6 Junio 2022"
+  },
+  {
+    "objectID": "seminarios.html#seminario-4.-generación-de-visores-de-datos-espaciales-con-r",
+    "href": "seminarios.html#seminario-4.-generación-de-visores-de-datos-espaciales-con-r",
+    "title": "Seminarios",
+    "section": "Seminario 4. Generación de visores de datos espaciales con R",
+    "text": "Seminario 4. Generación de visores de datos espaciales con R\n\nGeneración de visores de datos espaciales con R  \n\n\n-   Impartido por: Antonio J. Pérez-Luque, Estación Experimental del Zaidín CSIC, Granada\n\n-   Resumen: ¿Necesitas mostrar información espacial sobre alguna de tus investigaciones? ¿Quieres compartir con tus colaboradores las zonas de tu muestreo de una forma sencilla? En este seminario introduciremos algunas herramientas para la creación de visores espaciales sencillos y prácticos que permitan mostrar tu información espacial combinándola con otras capas de información. Para ello, utilizaremos diferentes paquetes de R, y combinándolos con leaflet (una librería JavaScript), GitHub y servicios WMS, generaremos visores espaciales de una forma sencilla.\n\n-   Link a presentación: &lt;https://ajpelu.github.io/visores_geograficos_r/slides.html&gt;\n\n-   Link a repo de GitHub: &lt;https://github.com/ajpelu/visores_geograficos_r&gt;\n\n-   Mapa de ejemplo: &lt;https://ajpelu.github.io/visores_geograficos_r_ejemplo/&gt;\n\n-   Fecha: 5 Mayo 2022"
+  },
+  {
+    "objectID": "seminarios.html#seminario-3.-análisis-de-la-ciencia-ciudadana-mediante-modelos-de-ocupación",
+    "href": "seminarios.html#seminario-3.-análisis-de-la-ciencia-ciudadana-mediante-modelos-de-ocupación",
+    "title": "Seminarios",
+    "section": "Seminario 3. Análisis de la ciencia ciudadana mediante modelos de ocupación",
+    "text": "Seminario 3. Análisis de la ciencia ciudadana mediante modelos de ocupación\n\nAnálisis de la ciencia ciudadana mediante modelos de ocupación  \n\n\n-   Impartido por: Guillermo Fandos Guzmán, Universidad Complutense de Madrid\n\n-   Resumen: Durante este seminario vamos a ver los pasos iniciales básicos para aplicar los modelos de ocupación a los datos de ciencia ciudadana. Los modelos de ocupación nos permiten modelar conjuntamente el proceso ecológico de aparición de especies y el proceso de observación de la detección de especies, pero a su vez nos permite sacar estimas como procesos separados. Este marco analítico nos permite tener en cuenta la variación de la probabilidad de detección al estimar la presencia de las especies.\n\n-   Link a datos y PDF: &lt;https://drive.google.com/drive/folders/1BX1js28MS-RSMFvTHoKJJ6iDY9wGNoAw&gt;\n\n-   Fecha: 30 Marzo 2022"
+  },
+  {
+    "objectID": "seminarios.html#seminario-2.-estadística-bayesiana",
+    "href": "seminarios.html#seminario-2.-estadística-bayesiana",
+    "title": "Seminarios",
+    "section": "Seminario 2. Estadística bayesiana",
+    "text": "Seminario 2. Estadística bayesiana\n\nEstadística bayesiana: principios, teorema de bayes y su aplicación  \n\n\n-   Impartido por: Paloma Ruiz-Benito e Ignacio Morales-Castilla, Universidad de Alcalá (UAH), Madrid - grupo de EcoBayesUAH\n\n-   Resumen: Repaso de los beneficios en el uso de una aproximación de la estadística bayesiana, explicación general del teorema de Bayes, y uso de ejemplos conceptuales y prácticos.\n\n-   Fecha: 28 Febrero 2022"
+  },
+  {
+    "objectID": "seminarios.html#seminario-1.-búsqueda-descarga-y-limpieza-de-datos-desde-gbif",
+    "href": "seminarios.html#seminario-1.-búsqueda-descarga-y-limpieza-de-datos-desde-gbif",
+    "title": "Seminarios",
+    "section": "Seminario 1. Búsqueda, descarga y limpieza de datos desde GBIF",
+    "text": "Seminario 1. Búsqueda, descarga y limpieza de datos desde GBIF\n\nBúsqueda, descarga y limpieza de datos de biodiversidad desde GBIF. Una odisea ecoinformática  \n\n\n-   Impartido por: Carlos Lara Romero, Universidad Rey Juan Carlos, Madrid\n\n-   Resumen: La misión cardinal de GBIF es dar acceso, de manera libre y gratuita, a datos de biodiversidad para apoyar la investigación científica y fomentar la conservación biológica. La información disponible en GBIF se encuentra estructurada en diversos tipos de datos y metadatos. Esta estructura es uno de los mayores potenciales de GBIF, pero también dificulta el proceso de descarga de la información. El objetivo del seminario es dotar a los asistentes de la información y herramientas para desarrollar con éxito el proceso de búsqueda, descarga y limpieza de datos desde GBIF a través de su interfaz web y del paquete de R \"rgbif\". Pero, sobre todo, con el seminario pretendo mostrar mi proceso de aprendizaje del lenguaje de programación R. Una odisea llena de frustración y fallo. De debilidad. Pero también de éxitos, satisfacción y crecimiento personal y profesional.\n\n-   Fecha: 31 Enero 2022"
   },
   {
     "objectID": "notas-ecoinformaticas.html#qué-son",
@@ -25,7 +151,301 @@
     "href": "notas-ecoinformaticas.html#notas-ecoinformáticas-publicadas",
     "title": "Notas Ecoinformáticas",
     "section": "Notas Ecoinformáticas publicadas",
-    "text": "Notas Ecoinformáticas publicadas\n\nTidyverse: colección de paquetes de R para la ciencia de datos\nCamelot: Una herramienta intuitiva para el manejo y procesamiento de imágenes de cámaras trampa utilizando inteligencia artificial\nLa unión hace la fuerza: modelos de distribución de especies integrando diferentes fuentes de datos\n¡Se puede entender cómo funcionan Git y GitHub!\nCómo aplicar la cienciometría a la investigación ecológica\nQuince consejos para mejorar nuestro código y flujo de trabajo con R\nEstadística circular aplicada a la Ecología\nCompartiendo datos en ecología: cómo añadir más valor a los datos\nCómo crear paquetes en R\nCómo escribir funciones en R\nInferencia estadística a partir de varios modelos y su utilidad en ecología\nVentajas de la estadística bayesiana frente a la frecuentista: ¿por qué nos resistimos a usarla?\nSobre el intercambio de datos de vegetación: el estándar ‘Veg-X’ y el paquete de R ‘VegX’\n¿Por qué usar GitHub? Diez pasos para disfrutar de GitHub y no morir en el intento\nProcesadores de texto Markup: más allá de MS Word\nAjuste, interpretación y presentación de modelos lineales: el valor p no es suficiente\nrOpenSci: cómo acceder de forma reproducible a repositorios de datos públicos"
+    "text": "Notas Ecoinformáticas publicadas\n\nlabeleR: un paquete R para optimizar la generación de etiquetas de colecciones y documentos científicos\neidosapi, un paquete de R para interactuar con la base de datos de biodiversidad EIDOS\nTidyverse: colección de paquetes de R para la ciencia de datos\nCamelot: Una herramienta intuitiva para el manejo y procesamiento de imágenes de cámaras trampa utilizando inteligencia artificial\nLa unión hace la fuerza: modelos de distribución de especies integrando diferentes fuentes de datos\n¡Se puede entender cómo funcionan Git y GitHub!\nCómo aplicar la cienciometría a la investigación ecológica\nQuince consejos para mejorar nuestro código y flujo de trabajo con R\nEstadística circular aplicada a la Ecología\nCompartiendo datos en ecología: cómo añadir más valor a los datos\nCómo crear paquetes en R\nCómo escribir funciones en R\nInferencia estadística a partir de varios modelos y su utilidad en ecología\nVentajas de la estadística bayesiana frente a la frecuentista: ¿por qué nos resistimos a usarla?\nSobre el intercambio de datos de vegetación: el estándar ‘Veg-X’ y el paquete de R ‘VegX’\n¿Por qué usar GitHub? Diez pasos para disfrutar de GitHub y no morir en el intento\nProcesadores de texto Markup: más allá de MS Word\nAjuste, interpretación y presentación de modelos lineales: el valor p no es suficiente\nrOpenSci: cómo acceder de forma reproducible a repositorios de datos públicos"
+  },
+  {
+    "objectID": "miembros/Xavier_Font_Castell.html",
+    "href": "miembros/Xavier_Font_Castell.html",
+    "title": "Xavier Font Castell",
+    "section": "",
+    "text": "Resumen de investigación:\nDesarrollo de portales de biodiversidad. Estudio de comunidades vegetales, desarrollo de software\n\n\nInterés profesional dentro del grupo:\napp de toma de datos, redes neuronales, biogeografia numérica.\n https://webgrec.ub.edu/webpages/000011/ang/xfont.ub.edu.html\n xfont@ub.edu\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Salvador_Arenas-Castro.html",
+    "href": "miembros/Salvador_Arenas-Castro.html",
+    "title": "Salvador Arenas-Castro",
+    "section": "",
+    "text": "Resumen de investigación:\n\nDetección de cambios espaciales y temporales en los patrones de biodiversidad y la dinámica de los ecosistemas, desde los niveles de especie hasta los de ecosistema y paisaje;\nAsimilación y evaluación de datos de observación de la Tierra para mejorar los marcos de monitoreo y seguimiento de la biodiversidad asistidos por modelos ecológicos;\nInterpretación de cómo se verá afectada la dinámica ecológica y las consecuencias que esto puede tener para la estabilidad de los ecosistemas y los beneficios socioecológicos que brindan.\n\n\n\nInterés profesional dentro del grupo:\nNA\n &lt;@sarenas-castro.bsky.social&gt;\n https://github.com/salvador-arenas-castro\n https://salvadorarenascastro.wordpress.com/\n b62arcas@uco.es\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Pedro_Rebollo.html",
+    "href": "miembros/Pedro_Rebollo.html",
+    "title": "Pedro Rebollo",
+    "section": "",
+    "text": "Resumen de investigación:\nEstudio dinámicas espacio-temporales en bosques Ibéricos y los factores subyacentes a estas dinámicas; estudiando especialmente la composición de especies y las perturbaciones\n\n\nInterés profesional dentro del grupo:\nCiencia abierta y reproducible\n https://x.com/Rebollito_\n https://github.com/prebollo\n prebollo@ucm.es\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Pablo_Gonzalez_Moreno.html",
+    "href": "miembros/Pablo_Gonzalez_Moreno.html",
+    "title": "Pablo González Moreno",
+    "section": "",
+    "text": "Resumen de investigación:\nMy research focuses on understanding invasive species and pest patterns in agriculture and forest systems in relation to key natural processes (regeneration, growth, and mortality). The focus of my research has progressively shifted from understanding macroecological patterns of invasive plants across a broad range of habitats and scales towards a more applied approach linked to risk prediction and management of forest and agriculture pests and diseases using a combination of statistical modelling, and remote sensing approaches.\n\n\nInterés profesional dentro del grupo:\nNA\n &lt;@pglezmoreno&gt;\n https://github.com/glezmoreno\n pablo.gonzalez@uco.es\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Miguel_de_Celis.html",
+    "href": "miembros/Miguel_de_Celis.html",
+    "title": "Miguel de Celis",
+    "section": "",
+    "text": "Resumen de investigación:\nEn esta línea se pretende comparar el microbioma de los progenitores silvestres de los cultivos en sus poblaciones naturales de origen con el de sus parientes modernos a escala global. Identificaremos microorganismos e interacciones clave que se hayan perdido en los cultivos modernos durante la domesticación. Este conocimiento permitirá optimizar interacciones entre cultivos y microorganismos en la rizosfera, endosfera y filosfera, con el objetivo de mejorar los biofertilizantes y bioinoculantes actuales, atribuyendo a esta línea un elevado potencial de transferencia tecnológica.\n\n\nInterés profesional dentro del grupo:\nNA\n &lt;@migueldc1.bsky.social&gt;\n https://github.com/migueldc1\n https://migueldc1.github.io/\n migueldc@ucm.es\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Karoline_Azevedo.html",
+    "href": "miembros/Karoline_Azevedo.html",
+    "title": "Karoline Azevedo",
+    "section": "",
+    "text": "Resumen de investigación:\nMi investigación se centra en las deficiencias de conocimiento, la macroecología y las interacciones entre los seres humanos y la naturaleza, con un interés especial en las áreas protegidas y la percepción ambiental.\n\n\nInterés profesional dentro del grupo:\nHe estado aprendiendo y trabajando con R y ecología durante un tiempo y diferentes líneas de investigación me han resultado de interés. Creo que es importante tener un grupo que reúna ambos universos para poder aprender más y colaborar, ese es mi mayor interés.\n https://github.com/karolazvdo\n karolineakaf@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Julen_Astigarraga.html",
+    "href": "miembros/Julen_Astigarraga.html",
+    "title": "Julen Astigarraga",
+    "section": "",
+    "text": "Resumen de investigación:\nMi investigación se centra en cuantificar los patrones espaciotemporales de la dinámica forestal y sus impulsores, con especial énfasis en los impactos de los cambios en el clima y el uso del suelo, proporcionando en última instancia información sobre posibles trayectorias futuras\n\n\nInterés profesional dentro del grupo:\nprogramming, computational reproducible workflows, statistics, vegetation modelling\n https://bsky.app/profile/julenastigarraga.bsky.social\n https://github.com/Julenasti\n julenastigarraga@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Ignasi_Bartomeus.html",
+    "href": "miembros/Ignasi_Bartomeus.html",
+    "title": "Ignasi Bartomeus",
+    "section": "",
+    "text": "Resumen de investigación:\nI am a community ecologist broadly interested in understanding how global change drivers impact community structure and composition, and how those impacts affect ecosystem functioning and stability. I am increasingly interested in ecological theory and how to apply it to conservation problems. I like to work with plant-pollinator communities because they show complex responses to land use change, climate warming or biological invasions, and encapsulate a critical ecosystem function, pollination.\n\n\nInterés profesional dentro del grupo:\nOpen and Reproducible Sciences, Statistics.\n https://bsky.app/profile/ibartomeus.bsky.social\n https://github.com/ibartomeus\n &lt;www.bartomeuslab.com&gt;\n nacho.bartomeus@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Guillermo_Fandos.html",
+    "href": "miembros/Guillermo_Fandos.html",
+    "title": "Guillermo Fandos",
+    "section": "",
+    "text": "Resumen de investigación:\nI am a spatial ecologist and conservation scientist with a broad interest in the ecological processes that drive the distribution and abundance of animal populations in space and time. As a mix between a field biologist and a data geek, I am an avid R user, who enjoys working with large datasets (both researcher-collected and citizen science) while developing and/or implementing new statistical methods to answer pressing questions in spatial ecology and conservation.\n\n\nInterés profesional dentro del grupo:\nEstadísica, reproducibilidad, conocimientos en programación\n https://bsky.app/profile/gfandos.bsky.social\n https://github.com/guifandos\n https://www.gfandos.com\n gfandos@ucm.es\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Francisco_Rodriguez-Sanchez.html",
+    "href": "miembros/Francisco_Rodriguez-Sanchez.html",
+    "title": "Francisco Rodríguez-Sánchez",
+    "section": "",
+    "text": "Resumen de investigación:\nI am a computational ecologist working at the intersection between ecology, biogeography, statistics and data science. My main research line focuses on better understanding and forecasting climate change effects on biodiversity, by coupling field observations with computational approaches based on big datasets, complex statistical models, and reproducible workflows.\nMy research spans multiple hierarchical scales: from ecological (years, decades) to geological (million years), from field plots to entire continents, and from individuals to populations, species and communities. I am particularly interested in developing new quantitative methods and software tools to facilitate reproducible research and investigate plant demography, community dynamics, species interactions and range shifts under climate change.\nI also teach several statistics and programming courses every year. I am fond of incorporating state-of-the-art data science techniques to deliver top-quality reproducible research. I am founding member and have been coordinator of the ‘R Users Group’ in Sevilla and the Ecoinformatics working group of the Spanish Terrestrial Ecology Association (AEET), which aims to foster good statistical and programming practice among ecologists.\n\n\nInterés profesional dentro del grupo:\nCompartir conocimientos sobre programación, estadística, y docencia en ciencia de datos\n https://frodsan.bsky.social/\n https://github.com/Pakillo\n https://frodriguezsanchez.net/\n f.rodriguez.sanc@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Elena_Quintero.html",
+    "href": "miembros/Elena_Quintero.html",
+    "title": "Elena Quintero",
+    "section": "",
+    "text": "Resumen de investigación:\nMi investigación se centra en el estudio de interacciones bióticas, explorando cómo se construyen estas redes y sus efectos en el funcionamiento de los ecosistemas y la regeneración natural\n\n\nInterés profesional dentro del grupo:\nestadística, ciencia reproducible, R\n https://bsky.app/profile/elequintero.bsky.social\n https://github.com/elequintero\n https://elequintero.github.io\n elenaquintero.qb@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Daniel_Montoya.html",
+    "href": "miembros/Daniel_Montoya.html",
+    "title": "Daniel Montoya",
+    "section": "",
+    "text": "Resumen de investigación:\nNA\n\n\nInterés profesional dentro del grupo:\nNA\n daniel.montoya@bc3research.org\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Celia_Gonzalez_Lopez.html",
+    "href": "miembros/Celia_Gonzalez_Lopez.html",
+    "title": "Celia González López",
+    "section": "",
+    "text": "Resumen de investigación:\nMis intereses investigadores se centran en el estudio de las comunidades vegetales desde un enfoque biogeográfico y socioecológico, aunando la comprensión de la distribución de estas comunidades con su interacción con las sociedades humanas y el mantenimiento de los usos tradicionales sostenibles. También siento fascinación por el enfoque metodológico de los modelos de distribución de especies y sus aplicaciones en ecología.\nMi tesis doctoral, la cual desarrollo en la actualidad, nace de un enfoque biogeográfico clásico, la distribución de la biodiversidad en los gradientes altitudinales, al cual incorporamos un enfoque cuantitativo y computacional más contemporáneo con el propósito de, no sólo recuperar la antigua biogeografía, sino, además, adaptarla al presente.\n\n\nInterés profesional dentro del grupo:\nSDMs; Macrofilogenias; Patrones biogeográficos; Nuevas metodologías\n https://bsky.app/profile/celiagonzl.bsky.social\n https://github.com/cecegl\n celia.gonzalez@ebd.csic.es\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Camelia_Algora_Gallardo.html",
+    "href": "miembros/Camelia_Algora_Gallardo.html",
+    "title": "Camelia Algora Gallardo",
+    "section": "",
+    "text": "Resumen de investigación:\nTrabajo en el estudio de microbiomas de suelos de sistemas agrícolas, forestales (bosques templados), y tundra del Ártico investigando el efecto del cambio climático y otros estresores ambientales en comunidades de bacterias y hongos y el efecto en sus funciones, tales como la descomposición de materia orgánica.\n\n\nInterés profesional dentro del grupo:\nEstar conectada con otros ecólogos para compartir métodos de análisis estadístico con herramientas de R (u otros programas). Aprender de otros colegas del campo de la ecología para hacer mejores análisis y estar al día de técnicas estadísticas para el estudio de la ecología.\n algoracamelia@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Antonio_Canepa_Oneto.html",
+    "href": "miembros/Antonio_Canepa_Oneto.html",
+    "title": "Antonio Canepa Oneto",
+    "section": "",
+    "text": "Resumen de investigación:\nAplicación de algoritmos estadísticos (GLM, GLMM, GAM, GAMM) y de Aprendizaje automático (RF, ANN, etc.) a diferentes disciplinas. Ultimamente, interesado en la bioacústica.\n\n\nInterés profesional dentro del grupo:\nNetworking; Code-Sharing; Aportar a la revista (revisor/autor)\n &lt;@canepaoneto.bsky.social&gt;\n https://github.com/ajcanepa\n https://investigacion.ubu.es/investigadores/35040/detalle\n ajcanepa@ubu.es\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Alejandra_Zarzo_Arias.html",
+    "href": "miembros/Alejandra_Zarzo_Arias.html",
+    "title": "Alejandra Zarzo Arias",
+    "section": "",
+    "text": "Resumen de investigación:\nI am a spatial ecologist mainly interested in testing, improving and applying Species Distribution Models to conservation, mainly for vertebrates and especially for carnivores and their coexistence with humans. I am further interested in the effect of species niches and ecological interactions on species coexistence across different spatial scales.\n\n\nInterés profesional dentro del grupo:\nnetworking, open science, modelling\n &lt;@alezarzo.bsky.social, @alezarzo&gt;\n https://github.com/alezarzo\n https://scholar.google.es/citations?user=wCbADsgAAAAJ&hl=es\n alejandra.zarzo@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Alba_Marquez_Rodriguez.html",
+    "href": "miembros/Alba_Marquez_Rodriguez.html",
+    "title": "Alba Márquez Rodríguez",
+    "section": "",
+    "text": "Resumen de investigación:\nCombinando mi pasión por la informática con mi sensibilidad medioambiental, he descubierto un gran interés en la intersección entre la tecnología y la ecología. Con formación en informática, estoy deseando contribuir al desarrollo de soluciones innovadoras que aborden los desafíos que enfrentan los investigadores y profesionales del medio ambiente.\n\n\nInterés profesional dentro del grupo:\nNA\n \n https://github.com/GrunCrow\n https://gruncrow.github.io/\n ai.gruncrow@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "jornadas.html",
+    "href": "jornadas.html",
+    "title": "I Jornadas de Ecoinformática de la AEET",
+    "section": "",
+    "text": "Las I Jornadas de Ecoinformática de la AEET se celebraron en Alcalá de Henares (Madrid), el 24 y 25 de octubre de 2024 en la Escuela de Arquitectura del campus histórico de la Universidad de Alcalá.\nEl propósito principal de las jornadas fue crear un espacio para que los miembros del grupo de Ecoinformática y otras personas interesadas en manejo y análisis de datos, modelización o programación, pudieran intercambiar investigaciones en ecología con un fuerte componente de análisis, avances metodológicos, herramientas informáticas e ideas innovadoras y así facilitar la colaboración interdisciplinar y el aprendizaje conjunto.\nPara más información visita la página web de las jornadas: https://ecoinf.quarto.pub/iecoinf/\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "activ_symposium_2017.html",
+    "href": "activ_symposium_2017.html",
+    "title": "Ecoinformatics symposium at MEDECOS-AEET meeting",
+    "section": "",
+    "text": "Dear colleagues,\nWe are pleased to announce the symposium\nEcoinformatics: data science brings new avenues for ecology\nat the XVI MEDECOS - XIII AEET meeting, 31 January – 4 February 2017, Seville, Spain.\nOpen access databases, open programming and advanced statistical methods are boosting the ability to solve complex long-standing questions in ecology. This symposium will bring together computational and theoretical ecologists, data scientists, and scientific programmers to showcase unique insights and conceptual advances made possible through ecoinformatics approaches.\nOur keynote speaker will be Dr. Roberto Salguero-Gómez (University of Sheffield, United Kingdom) who will talk about “low hanging fruits and future directions in comparative demography”.\nWe welcome contributions (both oral and posters) dealing with any aspect of ecoinformatics, including statistics, modelling, programming, and analysis of large ecological datasets. Please submit your abstract before 5th September 2016 through the meeting website.\nThe symposium is organised by the newly created AEET Ecoinformatics working group.\nFor more information please visit the conference website or write to ecoinf.aeet@gmail.com.\nLooking forward to your contributions and meeting you all in Sevilla next February!\nThe conveners,\nIgnasi Bartomeus, Sara Varela, Antonio J. Pérez-Luque y Francisco Rodríguez-Sánchez\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "activ_medecos2017.html",
+    "href": "activ_medecos2017.html",
+    "title": "Actividades del grupo de Ecoinformática en MEDECOS-AEET",
+    "section": "",
+    "text": "Estas son las actividades que hemos preparado desde el grupo de Ecoinformática para el congreso MEDECOS-AEET:\n\nSimposio sobre ‘Ecoinformatics: data science brings new avenues for ecology’. Viernes 3 11:30 - 13:00.\nTaller sobre ‘Reproducible science with Rmarkdown’. Viernes 3 14:00 - 15:30.\nTaller sobre ‘Easy collaboration and version control with Git and GitHub’. Viernes 3 14:00 - 15:30.\n¡Y nuestra primera asamblea! El jueves 2 de 13:30 a 14:30 en el aula TIC1 del edificio CRAI (mapa)\n\nToda la información está en la página web del congreso: http://www.medecos-aeet-meeting2017.es/\n¡Esperamos vuestra participación!\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "activ_AEET2021.html",
+    "href": "activ_AEET2021.html",
+    "title": "Actividades del grupo de Ecoinformática en Congreso AEET 2021",
+    "section": "",
+    "text": "Taller sobre ‘Introducción a Git y GitHub, dos herramientas para una ecología más colaborativa y reproducible’.\n\nContenido del taller\nMás información en la página web del congreso.\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "activ_AEET2023.html",
+    "href": "activ_AEET2023.html",
+    "title": "Actividades del grupo de Ecoinformática en Congreso AEET 2023",
+    "section": "",
+    "text": "Taller sobre ‘Programación funcional en R y cómo dejar de pensar en bucle’.\n\nContenido del taller\nMás información en la página web del congreso.\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "activ_reproducibilidad.html",
+    "href": "activ_reproducibilidad.html",
+    "title": "Reproducibilidad",
+    "section": "",
+    "text": "Lee nuestro artículo sobre ‘Ciencia reproducible: qué, por qué, cómo’\nMira el video: Non-reproducible workflows: a horror movie\nEnlaces a muchos recursos y tutoriales sobre ciencia reproducible\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ecoinformática-AEET",
+    "section": "",
+    "text": "La ecología tiene en muchas ocasiones un componente importante de computación. Desde un sencillo análisis estadístico de datos hasta la realización de simulaciones estocásticas complejas, casi todos los ecólogos necesitan interaccionar en mayor o menor medida con una computadora. Sin embargo, la formación de los ecólogos en aspectos tales como manejo de bases de datos, análisis de datos, modelización, programación, etc. ha sido tradicionalmente muy deficiente. Esto no sólo acarrea retrasos y problemas en la ejecución de los proyectos de investigación, sino que también limita el potencial y alcance de los mismos.\nEl grupo de trabajo de Ecoinformática de la Asociación Española de Ecología Terrestre (AEET) pretende fomentar el intercambio de experiencias y conocimientos sobre cualquier aspecto relacionado con la ecoinformática, además de contribuir a la formación de los nuevos ecólogos en buenas prácticas y técnicas de computación que les permitan desarrollar al máximo sus proyectos de investigación.\n\nÁmbito\nGlobal (sin limitación geográfica). Tampoco existe limitación temática: se incluye cualquier área de la ecología que implique un aspecto computacional.\n\nObjetivos\n\nPromover el intercambio de experiencias y conocimientos sobre ecoinformática y computación en un sentido muy amplio, incluyendo manejo y análisis de datos, simulaciones, modelización, programación, etc.\nPotenciar la movilidad de investigadores y la colaboración entre los integrantes del grupo de trabajo.\nPromover la formación de los ecólogos interesados en aprender buenas prácticas y técnicas avanzadas de computación.\nPromover los principios de ciencia abierta y reproducible.\n\n\nActividades\n\nOrganización de simposios y workshops específicos (principalmente en los congresos de la AEET).\nOrganización de cursos y talleres.\nPublicación de notas ecoinformáticas en la revista Ecosistemas.\nOrganización de seminarios mensuales sobre diversos temas relacionados con la ecoinformática que quedan guardados en el canal de youtube.\nIntercambio de experiencias y conocimientos a través de Slack, la lista de correo, Bluesky, etc.\n\n\n\n\nCoordinadores\n\nAlberto Cirera Sancho\nJulia G. de Aledo\nIgnacio Ramos-Gutiérrez\nCristina Ronquillo\n\n\nCómo participar\nLa participación activa es un pilar fundamental dentro de este grupo de trabajo. Para ello hemos puesto a disposición diferentes canales de comunicación:\n\nLa principal vía de comunicación entre nosotros es Slack. Ahí compartimos recursos, preguntamos dudas, organizamos actividades, etc. Aquí el enlace para unirse.\nDate de alta en nuestro directorio.\nBluesky: nuestro perfil en Bluesky es ecoinf-aeet.bsky.social\nCorreo electrónico: también puedes contactar con nosotros a través del correo electrónico: ecoinf.aeet@gmail.com\nAdemás tenemos una lista de correo, aunque priorizamos la comunicación via Slack.\nTambién utilizamos GitHub donde alojamos diferentes repositorios e incluso nuestra web.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Aitor_Ameztegui.html",
+    "href": "miembros/Aitor_Ameztegui.html",
+    "title": "Aitor Ameztegui",
+    "section": "",
+    "text": "Resumen de investigación:\nMe interesan (i) la evaluación de los legados del uso de la tierra y su impacto en la dinámica forestal y su capacidad para responder a los retos del cambio climático; y (ii) el uso de modelos de simulación para informar la gestión forestal y la toma de decisiones. Mi objetivo final es ayudar a los responsables de la toma de decisiones a anticiparse a los impactos del cambio global mediante la aplicación de estrategias adecuadas de gestión adaptativa basadas en la mejor ciencia disponible\n\n\nInterés profesional dentro del grupo:\nseminarios, programación, eficiencia en el código, compartir dudas\n https://x.com/multivac42\n https://github.com/ameztegui\n https://amezteguilab.wordpress.com/\n aitor.ameztegui@udl.cat\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Alberto_Cirera_Sancho.html",
+    "href": "miembros/Alberto_Cirera_Sancho.html",
+    "title": "Alberto Cirera Sancho",
+    "section": "",
+    "text": "Resumen de investigación:\nInvestigando a nivel general sobre la ecología y la evolución de las plantas que crecen en los roquedos verticales. Cuáles son las estrategias que les permiten sobrevivir en un ambiente tan extremo como son los roquedos, y cuales son los patrones evolutivos que explican su distribución y especialización. Con mucho interés en la ciencia abierta, en la programación y en la estadística.\n\n\nInterés profesional dentro del grupo:\nEstadistica, programaión, do-it-yourself\n https://github.com/albertocirsan\n cireralberto@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Aline_Pingarroni.html",
+    "href": "miembros/Aline_Pingarroni.html",
+    "title": "Aline Pingarroni",
+    "section": "",
+    "text": "Resumen de investigación:\nDinámica de sistemas socioecológicos: análisis de las relaciones entre las personas y los ecosistemas, así como los procesos sociales y ecológicos relacionados.\n\nValoración de servicios ecosistémicos y biodiversidad: análisis de la importancia de la biodiversidad y los servicios ecosistémicos, y sus vínculos en el bienestar de las personas desde diferentes enfoques (sociocultural, biofísico y ecológico)\nDinámica de bosques tropicales: análisis ecológico de la vegetación en paisajes modificados por actividades humanas, en regiones cálido-húmedas y cálido-secas de México.\nDiseño de estrategias de conservación de la biodiversidad y manejo sustentable del paisaje: construcción interdisciplinaria y transdiciplinaria basada en evidencia.\n\n\n\nInterés profesional dentro del grupo:\nEstoy interesada en unirme para intercambiar ideas, colaborar y mantenerme actualizado sobre los avances en el campo.\n https://github.com/AlinePingarroni\n https://www.researchgate.net/profile/Aline-Pingarroni?ev=hdr_xprf\n a_pingarroni@iztacala.unam.mx\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Antonio_J._Perez-Luque.html",
+    "href": "miembros/Antonio_J._Perez-Luque.html",
+    "title": "Antonio J. Pérez-Luque",
+    "section": "",
+    "text": "Resumen de investigación:\nEstudio de las perturbaciones ecológicas sobre bosques (sequías, fuegos, etc) integrando teledetección con datos de campo. Manejo de grandes bases de datos y generación de aplicaciones ecoinformáticas para el estudio de los recursos naturales\n\n\nInterés profesional dentro del grupo:\nRemote Sensing; Análisis de datos (R, python); Reproducibilidad; Gestión de Información\n &lt;ajpelu.bsky.social&gt;\n https://github.com/ajpelu\n https://ajperezluque.com/\n ajpelu@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Carlos_Eced_Royo.html",
+    "href": "miembros/Carlos_Eced_Royo.html",
+    "title": "Carlos Eced Royo",
+    "section": "",
+    "text": "Resumen de investigación:\nMi investigación tiene el objetivo de profundizar en el conocimiento de la ecología de helechos de Europa y la Península Ibérica para proponer medidas para su conservación. Estudia sus amenazas y posibles cambios a gran escala regional y local, así como sus mecanismos de tolerancia al estrés ambiental.\n\n\nInterés profesional dentro del grupo:\nAprender métodos de trabajo reproducibles, ciencia abierta, manejo de bases de datos, modelización ecológica\n https://github.com/carloseced\n eced692@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Cristina_Ronquillo_Ferrero.html",
+    "href": "miembros/Cristina_Ronquillo_Ferrero.html",
+    "title": "Cristina Ronquillo Ferrero",
+    "section": "",
+    "text": "Resumen de investigación:\nPhD ecologist interested in macroecology, ecoinformatics, Geographic Information Systems and biodiversity databases. My research interests include the assessment of data quality and information gaps and how it affects our biodiversity knowledge. Working as data technician in HortalLab at MNCN since 2018.\n\n\nInterés profesional dentro del grupo:\nNA\n &lt;@cristinaronquillo.bsky.social‬&gt;\n https://github.com/cRonFer\n cristinaronquilloferrero@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/David_Garcia_Callejas.html",
+    "href": "miembros/David_Garcia_Callejas.html",
+    "title": "David García Callejas",
+    "section": "",
+    "text": "Resumen de investigación:\nEcólogo de comunidades interesado en los procesos y patrones emergentes asociados a las interacciones bióticas entre especies.\n\n\nInterés profesional dentro del grupo:\nreproducibilidad, herramientas estadísticas, modelización\n &lt;@callejas.bsky.social&gt;\n https://github.com/garciacallejas\n https://garciacallejas.github.io/\n david.garcia.callejas@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Esperanza__C._Iranzo_Sanz.html",
+    "href": "miembros/Esperanza__C._Iranzo_Sanz.html",
+    "title": "Esperanza C. Iranzo Sanz",
+    "section": "",
+    "text": "Resumen de investigación:\nMi línea de investigación es la ecología de grandes mamíferos y los efectos de la actividad humana y el cambio climático sobre su distribución, comportamiento e interacciones\n\n\nInterés profesional dentro del grupo:\nanálisis de datos, modelización\n esperanza.iranzo@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Greta_Carrete_Vega.html",
+    "href": "miembros/Greta_Carrete_Vega.html",
+    "title": "Greta Carrete Vega",
+    "section": "",
+    "text": "Resumen de investigación:\nUso de modelos de distribución de especia para proyectos de conservación y regeneración terrestres.\n\n\nInterés profesional dentro del grupo:\nSDM, GIS, biogeografia\n \n https://github.com/Gretacv\n gretacvega@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Ignacio_Ramos-Gutierrez.html",
+    "href": "miembros/Ignacio_Ramos-Gutierrez.html",
+    "title": "Ignacio Ramos-Gutiérrez",
+    "section": "",
+    "text": "Resumen de investigación:\nMi investigación se enmarca en el campo de la biogeografía y conservación de plantas, especialmente en la Península Ibérica. Mi interés se centra en incluir el aspecto evolutivo en los análisis a través del uso de megafilogenias, y explorar el aspecto geográfico de los mismos.\n\n\nInterés profesional dentro del grupo:\nProgramación, estadística, análisis macroevolutivos\n https://bsky.app/profile/iramosgutierrez.bsky.social\n https://github.com/iramosgutierrez\n ig.ramosgutierrez@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/JOSE_LUIS_GARCIA_PEREZ.html",
+    "href": "miembros/JOSE_LUIS_GARCIA_PEREZ.html",
+    "title": "JOSE LUIS GARCÍA PÉREZ",
+    "section": "",
+    "text": "Resumen de investigación:\nNA\n\n\nInterés profesional dentro del grupo:\nNA\n jlgarciadgo@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Julia_G._de_Aledo.html",
+    "href": "miembros/Julia_G._de_Aledo.html",
+    "title": "Julia G. de Aledo",
+    "section": "",
+    "text": "Resumen de investigación:\nBiogeografía: distribución de las plantas tropicales a través de gradientes y factores ambientales que determinan su abundancia y diversidad. Etnobotánica: factores que las hacen útiles, a nivel evolutivo y funcional, fomentando la conservación y el estudio del conocimiento tradicional en comunidades locales. Ecología de comunidades: predicción del efecto del cambio climático en la diversidad de polinizadores\n\n\nInterés profesional dentro del grupo:\ndesarrollo de paquetes de R, data visualization, diseño web, LaTeX\n https://bsky.app/profile/juliagdealedo.bsky.social\n https://github.com/juliagdealedo\n https://juliagdealedo.github.io/\n juliagdealedo@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Mark_Holmes.html",
+    "href": "miembros/Mark_Holmes.html",
+    "title": "Mark Holmes",
+    "section": "",
+    "text": "Resumen de investigación:\nNA\n\n\nInterés profesional dentro del grupo:\nmodelling, visualisation, collaborations/networking\n &lt;sciencey-mark.bsky.social&gt;\n https://github.com/markjholmes\n mark.holmes@bc3research.org\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Monica_Gomez-Vadillo.html",
+    "href": "miembros/Monica_Gomez-Vadillo.html",
+    "title": "Mónica Gómez-Vadillo",
+    "section": "",
+    "text": "Resumen de investigación:\nMy research examines ecological niche and species co-occurrence patterns at macroecological scales using Multidimensional Niche Models (MDEs) and hypervolumes. This approach helps improve our understanding of species coexistence and their responses to global change.\n\n\nInterés profesional dentro del grupo:\nNA\n https://bsky.app/profile/biomolic.bsky.social\n https://github.com/mgomezv26\n monica.gomez@mncn.csic.es\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Paloma_Ruiz_Benito.html",
+    "href": "miembros/Paloma_Ruiz_Benito.html",
+    "title": "Paloma Ruiz Benito",
+    "section": "",
+    "text": "Resumen de investigación:\nNA\n\n\nInterés profesional dentro del grupo:\nNA\n https://github.com/ruizbp\n https://palomaruizbenito.web.uah.es/\n paloma.ruizb@uah.es\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Rodrigo_Granjel.html",
+    "href": "miembros/Rodrigo_Granjel.html",
+    "title": "Rodrigo Granjel",
+    "section": "",
+    "text": "Resumen de investigación:\nI integrate ecological theory with extensive empirical data to explore how abiotic factors and species interactions shape community stability and recovery dynamics across ecosystems. My research aims to uncover the mechanisms that drive coexistence, biodiversity, and ecosystem functioning, providing insights into the resilience of natural communities.\n\n\nInterés profesional dentro del grupo:\nreproducible workflows, computational tools, ecological analyses, open science\n https://bsky.app/profile/granjel.bsky.social\n https://github.com/Granjel\n https://linktr.ee/granjel\n granjel@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros/Veronica_Cruz_Alonso.html",
+    "href": "miembros/Veronica_Cruz_Alonso.html",
+    "title": "Verónica Cruz Alonso",
+    "section": "",
+    "text": "Resumen de investigación:\nNA\n\n\nInterés profesional dentro del grupo:\ngestión de datos, reproducibilidad, modelos lineales, estadística bayesiana\n https://x.com/Veruitter\n https://github.com/VeruGHub\n veronica.cral@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "miembros.html",
+    "href": "miembros.html",
+    "title": "Miembros",
+    "section": "",
+    "text": "A continuación puedes encontrar el directorio de miembros del grupo de trabajo de Ecoinformática incluyendo, además de su contacto, sus principales líneas de investigación y sus intereses dentro del grupo.\nPara darte de alta como miembro rellena tus datos aquí. Si quieres actualizar o corregir un error en los datos puedes actualizar el cuestionario con tu gmail en el mismo link o por favor escribe un email a ecoinf.aeet@gmail.com.\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAitor Ameztegui\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlba Márquez Rodríguez\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlberto Cirera Sancho\n\n\n\n\n\n\n\n\n\n\n\n\n\nAlejandra Zarzo Arias\n\n\n\n\n\n\n\n\n\n\n\n\n\nAline Pingarroni\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntonio Canepa Oneto\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntonio J. Pérez-Luque\n\n\n\n\n\n\n\n\n\n\n\n\n\nCamelia Algora Gallardo\n\n\n\n\n\n\n\n\n\n\n\n\n\nCarlos Eced Royo\n\n\n\n\n\n\n\n\n\n\n\n\n\nCelia González López\n\n\n\n\n\n\n\n\n\n\n\n\n\nCristina Ronquillo Ferrero\n\n\n\n\n\n\n\n\n\n\n\n\n\nDaniel Montoya\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid García Callejas\n\n\n\n\n\n\n\n\n\n\n\n\n\nElena Quintero\n\n\n\n\n\n\n\n\n\n\n\n\n\nEsperanza C. Iranzo Sanz\n\n\n\n\n\n\n\n\n\n\n\n\n\nFrancisco Rodríguez-Sánchez\n\n\n\n\n\n\n\n\n\n\n\n\n\nGreta Carrete Vega\n\n\n\n\n\n\n\n\n\n\n\n\n\nGuillermo Fandos\n\n\n\n\n\n\n\n\n\n\n\n\n\nIgnacio Ramos-Gutiérrez\n\n\n\n\n\n\n\n\n\n\n\n\n\nIgnasi Bartomeus\n\n\n\n\n\n\n\n\n\n\n\n\n\nJOSE LUIS GARCÍA PÉREZ\n\n\n\n\n\n\n\n\n\n\n\n\n\nJulen Astigarraga\n\n\n\n\n\n\n\n\n\n\n\n\n\nJulia G. de Aledo\n\n\n\n\n\n\n\n\n\n\n\n\n\nKaroline Azevedo\n\n\n\n\n\n\n\n\n\n\n\n\n\nMark Holmes\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiguel de Celis\n\n\n\n\n\n\n\n\n\n\n\n\n\nMónica Gómez-Vadillo\n\n\n\n\n\n\n\n\n\n\n\n\n\nPablo González Moreno\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaloma Ruiz Benito\n\n\n\n\n\n\n\n\n\n\n\n\n\nPedro Rebollo\n\n\n\n\n\n\n\n\n\n\n\n\n\nRodrigo Granjel\n\n\n\n\n\n\n\n\n\n\n\n\n\nSalvador Arenas-Castro\n\n\n\n\n\n\n\n\n\n\n\n\n\nVerónica Cruz Alonso\n\n\n\n\n\n\n\n\n\n\n\n\n\nXavier Font Castell\n\n\n\n\n\n\n\nNo matching items\n\n\n  \n\n Back to top"
   },
   {
     "objectID": "notas-english.html#what-are-the-ecoinformatics-notes",
@@ -47,425 +467,5 @@
     "title": "Ecoinformatics Notes",
     "section": "Ecoinformatics Notes published in English",
     "text": "Ecoinformatics Notes published in English"
-  },
-  {
-    "objectID": "miembros/Elena_Quintero.html",
-    "href": "miembros/Elena_Quintero.html",
-    "title": "Elena Quintero",
-    "section": "",
-    "text": "Resumen de investigación:\nMi investigación se centra en el estudio de interacciones bióticas, explorando cómo se construyen estas redes y sus efectos en el funcionamiento de los ecosistemas y la regeneración natural\n\n\nInterés profesional dentro del grupo:\nestadística, ciencia reproducible, R\n https://bsky.app/profile/elequintero.bsky.social\n https://github.com/elequintero\n https://elequintero.github.io\n elenaquintero.qb@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Daniel_Montoya.html",
-    "href": "miembros/Daniel_Montoya.html",
-    "title": "Daniel Montoya",
-    "section": "",
-    "text": "Resumen de investigación:\nNA\n\n\nInterés profesional dentro del grupo:\nNA\n daniel.montoya@bc3research.org\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/David_Garcia_Callejas.html",
-    "href": "miembros/David_Garcia_Callejas.html",
-    "title": "David García Callejas",
-    "section": "",
-    "text": "Resumen de investigación:\nEcólogo de comunidades interesado en los procesos y patrones emergentes asociados a las interacciones bióticas entre especies.\n\n\nInterés profesional dentro del grupo:\nreproducibilidad, herramientas estadísticas, modelización\n &lt;@callejas.bsky.social&gt;\n https://github.com/garciacallejas\n https://garciacallejas.github.io/\n david.garcia.callejas@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Salvador_Arenas-Castro.html",
-    "href": "miembros/Salvador_Arenas-Castro.html",
-    "title": "Salvador Arenas-Castro",
-    "section": "",
-    "text": "Resumen de investigación:\n\nDetección de cambios espaciales y temporales en los patrones de biodiversidad y la dinámica de los ecosistemas, desde los niveles de especie hasta los de ecosistema y paisaje;\nAsimilación y evaluación de datos de observación de la Tierra para mejorar los marcos de monitoreo y seguimiento de la biodiversidad asistidos por modelos ecológicos;\nInterpretación de cómo se verá afectada la dinámica ecológica y las consecuencias que esto puede tener para la estabilidad de los ecosistemas y los beneficios socioecológicos que brindan.\n\n\n\nInterés profesional dentro del grupo:\nNA\n &lt;@sarenas-castro.bsky.social&gt;\n https://github.com/salvador-arenas-castro\n https://salvadorarenascastro.wordpress.com/\n b62arcas@uco.es\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Ignacio_Ramos-Gutierrez.html",
-    "href": "miembros/Ignacio_Ramos-Gutierrez.html",
-    "title": "Ignacio Ramos-Gutiérrez",
-    "section": "",
-    "text": "Resumen de investigación:\nMi investigación se enmarca en el campo de la biogeografía y conservación de plantas, especialmente en la Península Ibérica. Mi interés se centra en incluir el aspecto evolutivo en los análisis a través del uso de megafilogenias, y explorar el aspecto geográfico de los mismos.\n\n\nInterés profesional dentro del grupo:\nProgramación, estadística, análisis macroevolutivos\n https://bsky.app/profile/iramosgutierrez.bsky.social\n https://github.com/iramosgutierrez\n ig.ramosgutierrez@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Julia_G._de_Aledo.html",
-    "href": "miembros/Julia_G._de_Aledo.html",
-    "title": "Julia G. de Aledo",
-    "section": "",
-    "text": "Resumen de investigación:\nBiogeografía: distribución de las plantas tropicales a través de gradientes y factores ambientales que determinan su abundancia y diversidad. Etnobotánica: factores que las hacen útiles, a nivel evolutivo y funcional, fomentando la conservación y el estudio del conocimiento tradicional en comunidades locales. Ecología de comunidades: predicción del efecto del cambio climático en la diversidad de polinizadores\n\n\nInterés profesional dentro del grupo:\ndesarrollo de paquetes de R, data visualization, diseño web, LaTeX\n https://bsky.app/profile/juliagdealedo.bsky.social\n https://github.com/juliagdealedo\n https://juliagdealedo.github.io/\n juliagdealedo@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Antonio_J._Perez-Luque.html",
-    "href": "miembros/Antonio_J._Perez-Luque.html",
-    "title": "Antonio J. Pérez-Luque",
-    "section": "",
-    "text": "Resumen de investigación:\nEstudio de las perturbaciones ecológicas sobre bosques (sequías, fuegos, etc) integrando teledetección con datos de campo. Manejo de grandes bases de datos y generación de aplicaciones ecoinformáticas para el estudio de los recursos naturales\n\n\nInterés profesional dentro del grupo:\nRemote Sensing; Análisis de datos (R, python); Reproducibilidad; Gestión de Información\n &lt;ajpelu.bsky.social&gt;\n https://github.com/ajpelu\n https://ajperezluque.com/\n ajpelu@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Alejandra_Zarzo_Arias.html",
-    "href": "miembros/Alejandra_Zarzo_Arias.html",
-    "title": "Alejandra Zarzo Arias",
-    "section": "",
-    "text": "Resumen de investigación:\nI am a spatial ecologist mainly interested in testing, improving and applying Species Distribution Models to conservation, mainly for vertebrates and especially for carnivores and their coexistence with humans. I am further interested in the effect of species niches and ecological interactions on species coexistence across different spatial scales.\n\n\nInterés profesional dentro del grupo:\nnetworking, open science, modelling\n &lt;@alezarzo.bsky.social, @alezarzo&gt;\n https://github.com/alezarzo\n https://scholar.google.es/citations?user=wCbADsgAAAAJ&hl=es\n alejandra.zarzo@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Miguel_de_Celis.html",
-    "href": "miembros/Miguel_de_Celis.html",
-    "title": "Miguel de Celis",
-    "section": "",
-    "text": "Resumen de investigación:\nEn esta línea se pretende comparar el microbioma de los progenitores silvestres de los cultivos en sus poblaciones naturales de origen con el de sus parientes modernos a escala global. Identificaremos microorganismos e interacciones clave que se hayan perdido en los cultivos modernos durante la domesticación. Este conocimiento permitirá optimizar interacciones entre cultivos y microorganismos en la rizosfera, endosfera y filosfera, con el objetivo de mejorar los biofertilizantes y bioinoculantes actuales, atribuyendo a esta línea un elevado potencial de transferencia tecnológica.\n\n\nInterés profesional dentro del grupo:\nNA\n &lt;@migueldc1.bsky.social&gt;\n https://github.com/migueldc1\n https://migueldc1.github.io/\n migueldc@ucm.es\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Francisco_Rodriguez-Sanchez.html",
-    "href": "miembros/Francisco_Rodriguez-Sanchez.html",
-    "title": "Francisco Rodríguez-Sánchez",
-    "section": "",
-    "text": "Resumen de investigación:\nI am a computational ecologist working at the intersection between ecology, biogeography, statistics and data science. My main research line focuses on better understanding and forecasting climate change effects on biodiversity, by coupling field observations with computational approaches based on big datasets, complex statistical models, and reproducible workflows.\nMy research spans multiple hierarchical scales: from ecological (years, decades) to geological (million years), from field plots to entire continents, and from individuals to populations, species and communities. I am particularly interested in developing new quantitative methods and software tools to facilitate reproducible research and investigate plant demography, community dynamics, species interactions and range shifts under climate change.\nI also teach several statistics and programming courses every year. I am fond of incorporating state-of-the-art data science techniques to deliver top-quality reproducible research. I am founding member and have been coordinator of the ‘R Users Group’ in Sevilla and the Ecoinformatics working group of the Spanish Terrestrial Ecology Association (AEET), which aims to foster good statistical and programming practice among ecologists.\n\n\nInterés profesional dentro del grupo:\nCompartir conocimientos sobre programación, estadística, y docencia en ciencia de datos\n https://frodsan.bsky.social/\n https://github.com/Pakillo\n https://frodriguezsanchez.net/\n f.rodriguez.sanc@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Camelia_Algora_Gallardo.html",
-    "href": "miembros/Camelia_Algora_Gallardo.html",
-    "title": "Camelia Algora Gallardo",
-    "section": "",
-    "text": "Resumen de investigación:\nTrabajo en el estudio de microbiomas de suelos de sistemas agrícolas, forestales (bosques templados), y tundra del Ártico investigando el efecto del cambio climático y otros estresores ambientales en comunidades de bacterias y hongos y el efecto en sus funciones, tales como la descomposición de materia orgánica.\n\n\nInterés profesional dentro del grupo:\nEstar conectada con otros ecólogos para compartir métodos de análisis estadístico con herramientas de R (u otros programas). Aprender de otros colegas del campo de la ecología para hacer mejores análisis y estar al día de técnicas estadísticas para el estudio de la ecología.\n algoracamelia@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Alberto_Cirera_Sancho.html",
-    "href": "miembros/Alberto_Cirera_Sancho.html",
-    "title": "Alberto Cirera Sancho",
-    "section": "",
-    "text": "Resumen de investigación:\nInvestigando a nivel general sobre la ecología y la evolución de las plantas que crecen en los roquedos verticales. Cuáles son las estrategias que les permiten sobrevivir en un ambiente tan extremo como son los roquedos, y cuales son los patrones evolutivos que explican su distribución y especialización. Con mucho interés en la ciencia abierta, en la programación y en la estadística.\n\n\nInterés profesional dentro del grupo:\nEstadistica, programaión, do-it-yourself\n https://github.com/albertocirsan\n cireralberto@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Esperanza__C._Iranzo_Sanz.html",
-    "href": "miembros/Esperanza__C._Iranzo_Sanz.html",
-    "title": "Esperanza C. Iranzo Sanz",
-    "section": "",
-    "text": "Resumen de investigación:\nMi línea de investigación es la ecología de grandes mamíferos y los efectos de la actividad humana y el cambio climático sobre su distribución, comportamiento e interacciones\n\n\nInterés profesional dentro del grupo:\nanálisis de datos, modelización\n esperanza.iranzo@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Ignasi_Bartomeus.html",
-    "href": "miembros/Ignasi_Bartomeus.html",
-    "title": "Ignasi Bartomeus",
-    "section": "",
-    "text": "Resumen de investigación:\nI am a community ecologist broadly interested in understanding how global change drivers impact community structure and composition, and how those impacts affect ecosystem functioning and stability. I am increasingly interested in ecological theory and how to apply it to conservation problems. I like to work with plant-pollinator communities because they show complex responses to land use change, climate warming or biological invasions, and encapsulate a critical ecosystem function, pollination.\n\n\nInterés profesional dentro del grupo:\nOpen and Reproducible Sciences, Statistics.\n https://bsky.app/profile/ibartomeus.bsky.social\n https://github.com/ibartomeus\n &lt;www.bartomeuslab.com&gt;\n nacho.bartomeus@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Pedro_Rebollo.html",
-    "href": "miembros/Pedro_Rebollo.html",
-    "title": "Pedro Rebollo",
-    "section": "",
-    "text": "Resumen de investigación:\nEstudio dinámicas espacio-temporales en bosques Ibéricos y los factores subyacentes a estas dinámicas; estudiando especialmente la composición de especies y las perturbaciones\n\n\nInterés profesional dentro del grupo:\nCiencia abierta y reproducible\n https://x.com/Rebollito_\n https://github.com/prebollo\n prebollo@ucm.es\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Xavier_Font_Castell.html",
-    "href": "miembros/Xavier_Font_Castell.html",
-    "title": "Xavier Font Castell",
-    "section": "",
-    "text": "Resumen de investigación:\nDesarrollo de portales de biodiversidad. Estudio de comunidades vegetales, desarrollo de software\n\n\nInterés profesional dentro del grupo:\napp de toma de datos, redes neuronales, biogeografia numérica.\n https://webgrec.ub.edu/webpages/000011/ang/xfont.ub.edu.html\n xfont@ub.edu\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Aitor_Ameztegui.html",
-    "href": "miembros/Aitor_Ameztegui.html",
-    "title": "Aitor Ameztegui",
-    "section": "",
-    "text": "Resumen de investigación:\nMe interesan (i) la evaluación de los legados del uso de la tierra y su impacto en la dinámica forestal y su capacidad para responder a los retos del cambio climático; y (ii) el uso de modelos de simulación para informar la gestión forestal y la toma de decisiones. Mi objetivo final es ayudar a los responsables de la toma de decisiones a anticiparse a los impactos del cambio global mediante la aplicación de estrategias adecuadas de gestión adaptativa basadas en la mejor ciencia disponible\n\n\nInterés profesional dentro del grupo:\nseminarios, programación, eficiencia en el código, compartir dudas\n https://x.com/multivac42\n https://github.com/ameztegui\n https://amezteguilab.wordpress.com/\n aitor.ameztegui@udl.cat\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "activ_symposium_2017.html",
-    "href": "activ_symposium_2017.html",
-    "title": "Ecoinformatics symposium at MEDECOS-AEET meeting",
-    "section": "",
-    "text": "Dear colleagues,\nWe are pleased to announce the symposium\nEcoinformatics: data science brings new avenues for ecology\nat the XVI MEDECOS - XIII AEET meeting, 31 January – 4 February 2017, Seville, Spain.\nOpen access databases, open programming and advanced statistical methods are boosting the ability to solve complex long-standing questions in ecology. This symposium will bring together computational and theoretical ecologists, data scientists, and scientific programmers to showcase unique insights and conceptual advances made possible through ecoinformatics approaches.\nOur keynote speaker will be Dr. Roberto Salguero-Gómez (University of Sheffield, United Kingdom) who will talk about “low hanging fruits and future directions in comparative demography”.\nWe welcome contributions (both oral and posters) dealing with any aspect of ecoinformatics, including statistics, modelling, programming, and analysis of large ecological datasets. Please submit your abstract before 5th September 2016 through the meeting website.\nThe symposium is organised by the newly created AEET Ecoinformatics working group.\nFor more information please visit the conference website or write to ecoinf.aeet@gmail.com.\nLooking forward to your contributions and meeting you all in Sevilla next February!\nThe conveners,\nIgnasi Bartomeus, Sara Varela, Antonio J. Pérez-Luque y Francisco Rodríguez-Sánchez\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "activ_AEET2023.html",
-    "href": "activ_AEET2023.html",
-    "title": "Actividades del grupo de Ecoinformática en Congreso AEET 2023",
-    "section": "",
-    "text": "Taller sobre ‘Programación funcional en R y cómo dejar de pensar en bucle’.\n\nContenido del taller\nMás información en la página web del congreso.\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ecoinformática-AEET",
-    "section": "",
-    "text": "La ecología tiene en muchas ocasiones un componente importante de computación. Desde un sencillo análisis estadístico de datos hasta la realización de simulaciones estocásticas complejas, casi todos los ecólogos necesitan interaccionar en mayor o menor medida con una computadora. Sin embargo, la formación de los ecólogos en aspectos tales como manejo de bases de datos, análisis de datos, modelización, programación, etc. ha sido tradicionalmente muy deficiente. Esto no sólo acarrea retrasos y problemas en la ejecución de los proyectos de investigación, sino que también limita el potencial y alcance de los mismos.\nEl grupo de trabajo de Ecoinformática de la Asociación Española de Ecología Terrestre (AEET) pretende fomentar el intercambio de experiencias y conocimientos sobre cualquier aspecto relacionado con la ecoinformática, además de contribuir a la formación de los nuevos ecólogos en buenas prácticas y técnicas de computación que les permitan desarrollar al máximo sus proyectos de investigación.\n\nÁmbito\nGlobal (sin limitación geográfica). Tampoco existe limitación temática: se incluye cualquier área de la ecología que implique un aspecto computacional.\n\nObjetivos\n\nPromover el intercambio de experiencias y conocimientos sobre ecoinformática y computación en un sentido muy amplio, incluyendo manejo y análisis de datos, simulaciones, modelización, programación, etc.\nPotenciar la movilidad de investigadores y la colaboración entre los integrantes del grupo de trabajo.\nPromover la formación de los ecólogos interesados en aprender buenas prácticas y técnicas avanzadas de computación.\nPromover los principios de ciencia abierta y reproducible.\n\n\nActividades\n\nOrganización de simposios y workshops específicos (principalmente en los congresos de la AEET).\nOrganización de cursos y talleres.\nPublicación de notas ecoinformáticas en la revista Ecosistemas.\nOrganización de seminarios mensuales sobre diversos temas relacionados con la ecoinformática que quedan guardados en el canal de youtube.\nIntercambio de experiencias y conocimientos a través de Slack, la lista de correo, Bluesky, etc.\n\n\n\n\nCoordinadores\n\nAlberto Cirera Sancho\nJulia G. de Aledo\nIgnacio Ramos-Gutiérrez\nCristina Ronquillo\n\n\nCómo participar\nLa participación activa es un pilar fundamental dentro de este grupo de trabajo. Para ello hemos puesto a disposición diferentes canales de comunicación:\n\nLa principal vía de comunicación entre nosotros es Slack. Ahí compartimos recursos, preguntamos dudas, organizamos actividades, etc. Aquí el enlace para unirse.\nDate de alta en nuestro directorio.\nBluesky: nuestro perfil en Bluesky es ecoinf-aeet.bsky.social\nCorreo electrónico: también puedes contactar con nosotros a través del correo electrónico: ecoinf.aeet@gmail.com\nAdemás tenemos una lista de correo, aunque priorizamos la comunicación via Slack.\nTambién utilizamos GitHub donde alojamos diferentes repositorios e incluso nuestra web.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros.html",
-    "href": "miembros.html",
-    "title": "Miembros",
-    "section": "",
-    "text": "A continuación puedes encontrar el directorio de miembros del grupo de trabajo de Ecoinformática incluyendo, además de su contacto, sus principales líneas de investigación y sus intereses dentro del grupo.\nPara darte de alta como miembro rellena tus datos aquí. Si quieres actualizar o corregir un error en los datos puedes actualizar el cuestionario con tu gmail en el mismo link o por favor escribe un email a ecoinf.aeet@gmail.com.\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAitor Ameztegui\n\n\n\n\n\n\n\n\n\n\n\n\nAlba Márquez Rodríguez\n\n\n\n\n\n\n\n\n\n\n\n\nAlberto Cirera Sancho\n\n\n\n\n\n\n\n\n\n\n\n\nAlejandra Zarzo Arias\n\n\n\n\n\n\n\n\n\n\n\n\nAline Pingarroni\n\n\n\n\n\n\n\n\n\n\n\n\nAntonio Canepa Oneto\n\n\n\n\n\n\n\n\n\n\n\n\nAntonio J. Pérez-Luque\n\n\n\n\n\n\n\n\n\n\n\n\nCamelia Algora Gallardo\n\n\n\n\n\n\n\n\n\n\n\n\nCarlos Eced Royo\n\n\n\n\n\n\n\n\n\n\n\n\nCelia González López\n\n\n\n\n\n\n\n\n\n\n\n\nCristina Ronquillo Ferrero\n\n\n\n\n\n\n\n\n\n\n\n\nDaniel Montoya\n\n\n\n\n\n\n\n\n\n\n\n\nDavid García Callejas\n\n\n\n\n\n\n\n\n\n\n\n\nElena Quintero\n\n\n\n\n\n\n\n\n\n\n\n\nEsperanza C. Iranzo Sanz\n\n\n\n\n\n\n\n\n\n\n\n\nFrancisco Rodríguez-Sánchez\n\n\n\n\n\n\n\n\n\n\n\n\nGreta Carrete Vega\n\n\n\n\n\n\n\n\n\n\n\n\nGuillermo Fandos\n\n\n\n\n\n\n\n\n\n\n\n\nIgnacio Ramos-Gutiérrez\n\n\n\n\n\n\n\n\n\n\n\n\nIgnasi Bartomeus\n\n\n\n\n\n\n\n\n\n\n\n\nJOSE LUIS GARCÍA PÉREZ\n\n\n\n\n\n\n\n\n\n\n\n\nJulen Astigarraga\n\n\n\n\n\n\n\n\n\n\n\n\nJulia G. de Aledo\n\n\n\n\n\n\n\n\n\n\n\n\nKaroline Azevedo\n\n\n\n\n\n\n\n\n\n\n\n\nMark Holmes\n\n\n\n\n\n\n\n\n\n\n\n\nMiguel de Celis\n\n\n\n\n\n\n\n\n\n\n\n\nMónica Gómez-Vadillo\n\n\n\n\n\n\n\n\n\n\n\n\nPablo González Moreno\n\n\n\n\n\n\n\n\n\n\n\n\nPaloma Ruiz Benito\n\n\n\n\n\n\n\n\n\n\n\n\nPedro Rebollo\n\n\n\n\n\n\n\n\n\n\n\n\nRodrigo Granjel\n\n\n\n\n\n\n\n\n\n\n\n\nSalvador Arenas-Castro\n\n\n\n\n\n\n\n\n\n\n\n\nVerónica Cruz Alonso\n\n\n\n\n\n\n\n\n\n\n\n\nXavier Font Castell\n\n\n\n\n\nNo matching items\n\n  \n\n Back to top"
-  },
-  {
-    "objectID": "activ_reproducibilidad.html",
-    "href": "activ_reproducibilidad.html",
-    "title": "Reproducibilidad",
-    "section": "",
-    "text": "Lee nuestro artículo sobre ‘Ciencia reproducible: qué, por qué, cómo’\nMira el video: Non-reproducible workflows: a horror movie\nEnlaces a muchos recursos y tutoriales sobre ciencia reproducible\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Veronica_Cruz_Alonso.html",
-    "href": "miembros/Veronica_Cruz_Alonso.html",
-    "title": "Verónica Cruz Alonso",
-    "section": "",
-    "text": "Resumen de investigación:\nNA\n\n\nInterés profesional dentro del grupo:\ngestión de datos, reproducibilidad, modelos lineales, estadística bayesiana\n https://x.com/Veruitter\n https://github.com/VeruGHub\n veronica.cral@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Monica_Gomez-Vadillo.html",
-    "href": "miembros/Monica_Gomez-Vadillo.html",
-    "title": "Mónica Gómez-Vadillo",
-    "section": "",
-    "text": "Resumen de investigación:\nMy research examines ecological niche and species co-occurrence patterns at macroecological scales using Multidimensional Niche Models (MDEs) and hypervolumes. This approach helps improve our understanding of species coexistence and their responses to global change.\n\n\nInterés profesional dentro del grupo:\nNA\n https://bsky.app/profile/biomolic.bsky.social\n https://github.com/mgomezv26\n monica.gomez@mncn.csic.es\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Alba_Marquez_Rodriguez.html",
-    "href": "miembros/Alba_Marquez_Rodriguez.html",
-    "title": "Alba Márquez Rodríguez",
-    "section": "",
-    "text": "Resumen de investigación:\nCombinando mi pasión por la informática con mi sensibilidad medioambiental, he descubierto un gran interés en la intersección entre la tecnología y la ecología. Con formación en informática, estoy deseando contribuir al desarrollo de soluciones innovadoras que aborden los desafíos que enfrentan los investigadores y profesionales del medio ambiente.\n\n\nInterés profesional dentro del grupo:\nNA\n \n https://github.com/GrunCrow\n https://gruncrow.github.io/\n ai.gruncrow@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Aline_Pingarroni.html",
-    "href": "miembros/Aline_Pingarroni.html",
-    "title": "Aline Pingarroni",
-    "section": "",
-    "text": "Resumen de investigación:\nDinámica de sistemas socioecológicos: análisis de las relaciones entre las personas y los ecosistemas, así como los procesos sociales y ecológicos relacionados.\n\nValoración de servicios ecosistémicos y biodiversidad: análisis de la importancia de la biodiversidad y los servicios ecosistémicos, y sus vínculos en el bienestar de las personas desde diferentes enfoques (sociocultural, biofísico y ecológico)\nDinámica de bosques tropicales: análisis ecológico de la vegetación en paisajes modificados por actividades humanas, en regiones cálido-húmedas y cálido-secas de México.\nDiseño de estrategias de conservación de la biodiversidad y manejo sustentable del paisaje: construcción interdisciplinaria y transdiciplinaria basada en evidencia.\n\n\n\nInterés profesional dentro del grupo:\nEstoy interesada en unirme para intercambiar ideas, colaborar y mantenerme actualizado sobre los avances en el campo.\n https://github.com/AlinePingarroni\n https://www.researchgate.net/profile/Aline-Pingarroni?ev=hdr_xprf\n a_pingarroni@iztacala.unam.mx\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Cristina_Ronquillo_Ferrero.html",
-    "href": "miembros/Cristina_Ronquillo_Ferrero.html",
-    "title": "Cristina Ronquillo Ferrero",
-    "section": "",
-    "text": "Resumen de investigación:\nPhD ecologist interested in macroecology, ecoinformatics, Geographic Information Systems and biodiversity databases. My research interests include the assessment of data quality and information gaps and how it affects our biodiversity knowledge. Working as data technician in HortalLab at MNCN since 2018.\n\n\nInterés profesional dentro del grupo:\nNA\n &lt;@cristinaronquillo.bsky.social‬&gt;\n https://github.com/cRonFer\n cristinaronquilloferrero@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Paloma_Ruiz_Benito.html",
-    "href": "miembros/Paloma_Ruiz_Benito.html",
-    "title": "Paloma Ruiz Benito",
-    "section": "",
-    "text": "Resumen de investigación:\nNA\n\n\nInterés profesional dentro del grupo:\nNA\n https://github.com/ruizbp\n https://palomaruizbenito.web.uah.es/\n paloma.ruizb@uah.es\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Julen_Astigarraga.html",
-    "href": "miembros/Julen_Astigarraga.html",
-    "title": "Julen Astigarraga",
-    "section": "",
-    "text": "Resumen de investigación:\nMi investigación se centra en cuantificar los patrones espaciotemporales de la dinámica forestal y sus impulsores, con especial énfasis en los impactos de los cambios en el clima y el uso del suelo, proporcionando en última instancia información sobre posibles trayectorias futuras\n\n\nInterés profesional dentro del grupo:\nprogramming, computational reproducible workflows, statistics, vegetation modelling\n https://bsky.app/profile/julenastigarraga.bsky.social\n https://github.com/Julenasti\n julenastigarraga@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Mark_Holmes.html",
-    "href": "miembros/Mark_Holmes.html",
-    "title": "Mark Holmes",
-    "section": "",
-    "text": "Resumen de investigación:\nNA\n\n\nInterés profesional dentro del grupo:\nmodelling, visualisation, collaborations/networking\n &lt;sciencey-mark.bsky.social&gt;\n https://github.com/markjholmes\n mark.holmes@bc3research.org\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Greta_Carrete_Vega.html",
-    "href": "miembros/Greta_Carrete_Vega.html",
-    "title": "Greta Carrete Vega",
-    "section": "",
-    "text": "Resumen de investigación:\nUso de modelos de distribución de especia para proyectos de conservación y regeneración terrestres.\n\n\nInterés profesional dentro del grupo:\nSDM, GIS, biogeografia\n \n https://github.com/Gretacv\n gretacvega@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Pablo_Gonzalez_Moreno.html",
-    "href": "miembros/Pablo_Gonzalez_Moreno.html",
-    "title": "Pablo González Moreno",
-    "section": "",
-    "text": "Resumen de investigación:\nMy research focuses on understanding invasive species and pest patterns in agriculture and forest systems in relation to key natural processes (regeneration, growth, and mortality). The focus of my research has progressively shifted from understanding macroecological patterns of invasive plants across a broad range of habitats and scales towards a more applied approach linked to risk prediction and management of forest and agriculture pests and diseases using a combination of statistical modelling, and remote sensing approaches.\n\n\nInterés profesional dentro del grupo:\nNA\n &lt;@pglezmoreno&gt;\n https://github.com/glezmoreno\n pablo.gonzalez@uco.es\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Rodrigo_Granjel.html",
-    "href": "miembros/Rodrigo_Granjel.html",
-    "title": "Rodrigo Granjel",
-    "section": "",
-    "text": "Resumen de investigación:\nI integrate ecological theory with extensive empirical data to explore how abiotic factors and species interactions shape community stability and recovery dynamics across ecosystems. My research aims to uncover the mechanisms that drive coexistence, biodiversity, and ecosystem functioning, providing insights into the resilience of natural communities.\n\n\nInterés profesional dentro del grupo:\nreproducible workflows, computational tools, ecological analyses, open science\n https://bsky.app/profile/granjel.bsky.social\n https://github.com/Granjel\n https://linktr.ee/granjel\n granjel@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Antonio_Canepa_Oneto.html",
-    "href": "miembros/Antonio_Canepa_Oneto.html",
-    "title": "Antonio Canepa Oneto",
-    "section": "",
-    "text": "Resumen de investigación:\nAplicación de algoritmos estadísticos (GLM, GLMM, GAM, GAMM) y de Aprendizaje automático (RF, ANN, etc.) a diferentes disciplinas. Ultimamente, interesado en la bioacústica.\n\n\nInterés profesional dentro del grupo:\nNetworking; Code-Sharing; Aportar a la revista (revisor/autor)\n &lt;@canepaoneto.bsky.social&gt;\n https://github.com/ajcanepa\n https://investigacion.ubu.es/investigadores/35040/detalle\n ajcanepa@ubu.es\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Karoline_Azevedo.html",
-    "href": "miembros/Karoline_Azevedo.html",
-    "title": "Karoline Azevedo",
-    "section": "",
-    "text": "Resumen de investigación:\nMi investigación se centra en las deficiencias de conocimiento, la macroecología y las interacciones entre los seres humanos y la naturaleza, con un interés especial en las áreas protegidas y la percepción ambiental.\n\n\nInterés profesional dentro del grupo:\nHe estado aprendiendo y trabajando con R y ecología durante un tiempo y diferentes líneas de investigación me han resultado de interés. Creo que es importante tener un grupo que reúna ambos universos para poder aprender más y colaborar, ese es mi mayor interés.\n https://github.com/karolazvdo\n karolineakaf@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Carlos_Eced_Royo.html",
-    "href": "miembros/Carlos_Eced_Royo.html",
-    "title": "Carlos Eced Royo",
-    "section": "",
-    "text": "Resumen de investigación:\nMi investigación tiene el objetivo de profundizar en el conocimiento de la ecología de helechos de Europa y la Península Ibérica para proponer medidas para su conservación. Estudia sus amenazas y posibles cambios a gran escala regional y local, así como sus mecanismos de tolerancia al estrés ambiental.\n\n\nInterés profesional dentro del grupo:\nAprender métodos de trabajo reproducibles, ciencia abierta, manejo de bases de datos, modelización ecológica\n https://github.com/carloseced\n eced692@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/JOSE_LUIS_GARCIA_PEREZ.html",
-    "href": "miembros/JOSE_LUIS_GARCIA_PEREZ.html",
-    "title": "JOSE LUIS GARCÍA PÉREZ",
-    "section": "",
-    "text": "Resumen de investigación:\nNA\n\n\nInterés profesional dentro del grupo:\nNA\n jlgarciadgo@gmail.com\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Guillermo_Fandos.html",
-    "href": "miembros/Guillermo_Fandos.html",
-    "title": "Guillermo Fandos",
-    "section": "",
-    "text": "Resumen de investigación:\nI am a spatial ecologist and conservation scientist with a broad interest in the ecological processes that drive the distribution and abundance of animal populations in space and time. As a mix between a field biologist and a data geek, I am an avid R user, who enjoys working with large datasets (both researcher-collected and citizen science) while developing and/or implementing new statistical methods to answer pressing questions in spatial ecology and conservation.\n\n\nInterés profesional dentro del grupo:\nEstadísica, reproducibilidad, conocimientos en programación\n https://bsky.app/profile/gfandos.bsky.social\n https://github.com/guifandos\n https://www.gfandos.com\n gfandos@ucm.es\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "miembros/Celia_Gonzalez_Lopez.html",
-    "href": "miembros/Celia_Gonzalez_Lopez.html",
-    "title": "Celia González López",
-    "section": "",
-    "text": "Resumen de investigación:\nMis intereses investigadores se centran en el estudio de las comunidades vegetales desde un enfoque biogeográfico y socioecológico, aunando la comprensión de la distribución de estas comunidades con su interacción con las sociedades humanas y el mantenimiento de los usos tradicionales sostenibles. También siento fascinación por el enfoque metodológico de los modelos de distribución de especies y sus aplicaciones en ecología.\nMi tesis doctoral, la cual desarrollo en la actualidad, nace de un enfoque biogeográfico clásico, la distribución de la biodiversidad en los gradientes altitudinales, al cual incorporamos un enfoque cuantitativo y computacional más contemporáneo con el propósito de, no sólo recuperar la antigua biogeografía, sino, además, adaptarla al presente.\n\n\nInterés profesional dentro del grupo:\nSDMs; Macrofilogenias; Patrones biogeográficos; Nuevas metodologías\n https://bsky.app/profile/celiagonzl.bsky.social\n https://github.com/cecegl\n celia.gonzalez@ebd.csic.es\n\n  \n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "activ_AEET2021.html",
-    "href": "activ_AEET2021.html",
-    "title": "Actividades del grupo de Ecoinformática en Congreso AEET 2021",
-    "section": "",
-    "text": "Taller sobre ‘Introducción a Git y GitHub, dos herramientas para una ecología más colaborativa y reproducible’.\n\nContenido del taller\nMás información en la página web del congreso.\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "jornadas.html",
-    "href": "jornadas.html",
-    "title": "I Jornadas de Ecoinformática de la AEET",
-    "section": "",
-    "text": "Las I Jornadas de Ecoinformática de la AEET se celebraron en Alcalá de Henares (Madrid), el 24 y 25 de octubre de 2024 en la Escuela de Arquitectura del campus histórico de la Universidad de Alcalá.\nEl propósito principal de las jornadas fue crear un espacio para que los miembros del grupo de Ecoinformática y otras personas interesadas en manejo y análisis de datos, modelización o programación, pudieran intercambiar investigaciones en ecología con un fuerte componente de análisis, avances metodológicos, herramientas informáticas e ideas innovadoras y así facilitar la colaboración interdisciplinar y el aprendizaje conjunto.\nPara más información visita la página web de las jornadas: https://ecoinf.quarto.pub/iecoinf/\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "seminarios.html#seminario-19.-occur-shiny-app-flujo-de-trabajo-para-validar-registros-de-especies",
-    "href": "seminarios.html#seminario-19.-occur-shiny-app-flujo-de-trabajo-para-validar-registros-de-especies",
-    "title": "Seminarios",
-    "section": "Seminario 19. OCCUR Shiny app: flujo de trabajo para validar registros de especies",
-    "text": "Seminario 19. OCCUR Shiny app: flujo de trabajo para validar registros de especies\n\nOCCUR Shiny app: La importancia de establecer un flujo de trabajo apropiado para validar registros de presencia de especies   \n\nImpartido por: Cristina Ronquillo\nResumen: Numerosos estudios a gran escala en biogeografía y macroecología son desarrollados a partir de los registros de presencia de biodiversidad publicados en repositorios abiertos. Sin embargo, estos datos no deben analizarse directamente por los sesgos y errores que contienen y el personal de investigación debe enfrentarse al desafío de validarlos previamente. En este seminario se presentará la guía interactiva OCCUR como un recurso valioso para integrar el control de calidad de datos en flujos de trabajo analíticos y contextos educativos. OCCUR es una aplicación Shiny diseñada para guiar en el tratamiento, limpieza y validación de datos de biodiversidad que busca definir protocolos estandarizados de curación de datos que garanticen la reproducibilidad y comparabilidad de los estudios. Esta aplicación integra librerías de R con código básico, permitiendo documentar cada paso del proceso y explorar los compromisos entre la certidumbre y la cobertura de los datos. Aprovecharemos también para mostrar algunos ejemplos de errores típicos que pueden estar ocultos en los registros de las bases de datos y se comentarán algunos casos en los que se ha aplicado el flujo de trabajo de OCCUR.\nEnlaces de interés:\n\nhttps://ecoinformatic.shinyapps.io/OCCUR\nhttps://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14271\nhttps://onlinelibrary.wiley.com/doi/10.1002/ece3.10786\n\nFecha: 8 abril 2025"
-  },
-  {
-    "objectID": "seminarios.html#seminario-18.-análisis-de-textos-con-r-ejemplos-útiles-para-la-ecología",
-    "href": "seminarios.html#seminario-18.-análisis-de-textos-con-r-ejemplos-útiles-para-la-ecología",
-    "title": "Seminarios",
-    "section": "Seminario 18. Análisis de textos con R: ejemplos útiles para la ecología",
-    "text": "Seminario 18. Análisis de textos con R: ejemplos útiles para la ecología\n\nAnálisis de textos con R: ejemplos útiles para la ecología   \n\nImpartido por: Elena Velado Alonso\nResumen: Trabajar con caracteres (string data) en R suele ser percibido como una tarea ardua por muchos usuarios. Esto, en ocasiones, limita la reproducibilidad de los flujos de trabajo en ecología. En este seminario trabajaremos en el análisis de textos bajo la filosofía tidy con ejemplos útiles para la investigación ecológica y socio-ecológica. Para ello repasaremos conceptos básicos del trabajo con caracteres en R, incluyendo funciones de R base y del paquete stringr. Posteriormente, aprenderemos a leer archivos pdf y a limpiar textos para su posterior análisis. Se presentarán ejemplos prácticos para la limpieza automática de nombres taxonómicos, la realización de gráficos de nubes de palabras, y cálculos simples como las frecuencias de palabras en textos o la correlación ente palabras para el análisis del contenido.\nLink a GitHub con el script y datos: https://github.com/elenavelado/TextAnalysis4Ecology\nFecha: 26 febrero 2025"
-  },
-  {
-    "objectID": "seminarios.html#seminario-17.-bluecarbon-r-package-get-stocks-and-sequestration-rates-estimations-directly-from-raw-laboratory-data",
-    "href": "seminarios.html#seminario-17.-bluecarbon-r-package-get-stocks-and-sequestration-rates-estimations-directly-from-raw-laboratory-data",
-    "title": "Seminarios",
-    "section": "Seminario 17. BlueCarbon R package: get stocks and sequestration rates estimations directly from raw laboratory data",
-    "text": "Seminario 17. BlueCarbon R package: get stocks and sequestration rates estimations directly from raw laboratory data\n\nBlueCarbon R package: get stocks and sequestration rates estimations directly from raw laboratory data   \n\nImpartido por: Nerea Piñeiro Juncal\nResumen: The goal of the BlueCarbon R package is to facilitate the estimation of organic carbon stocks and sequestration rates from soil/sediment cores from blue carbon ecosystems. It can also be used to estimate stocks for any soil/sediment data, and to estimate sequestration rates for any soil/sediment data from depositional environments. It contains seven main functions to estimate the compaction of cores, mathematically correct core compaction, estimate sample thickness, estimate organic carbon content from organic matter content, estimate organic carbon stocks and sequestration rates and visualize the error of stock extrapolation. In this webinar we will learn how each function works and how to use them to obtain stocks and sequestration rates estimations directly from raw laboratory data. This R package is openly available in GitHub: https://ecologyr.github.io/BlueCarbon/.\nFecha: 28 enero 2025"
-  },
-  {
-    "objectID": "seminarios.html#seminario-16.-el-papel-de-la-ia-en-la-ecología-cómo-transformar-imágenes-en-datos",
-    "href": "seminarios.html#seminario-16.-el-papel-de-la-ia-en-la-ecología-cómo-transformar-imágenes-en-datos",
-    "title": "Seminarios",
-    "section": "Seminario 16. El papel de la IA en la ecología, cómo transformar imágenes en datos",
-    "text": "Seminario 16. El papel de la IA en la ecología, cómo transformar imágenes en datos\n\nEl papel de la IA en la ecología, cómo transformar imágenes en datos: Opciones, desafíos y soluciones   \n\nImpartido por: Alba Márquez-Rodríguez y Antón Álvarez\nResumen: El seminario pretende explorar la creciente intersección entre la inteligencia artificial (IA) y la ecología, centrándose en cómo la IA puede transformar imágenes en datos para impulsar la investigación y la conservación de la naturaleza. El seminario aborda la definición de IA y su relevancia en el contexto ecológico, destacando casos prácticos que ilustran su aplicación en la recolección y análisis de datos ecológicos. El objetivo principal de la charla es familiarizar a las personas participantes con el potencial y las aplicaciones prácticas de la IA en el campo de la ecología. Se discutirán herramientas y técnicas específicas de IA que ya están disponibles y se exploran errores comunes que suelen cometerse desde la perspectiva de la ecología al utilizar estas tecnologías. Además, se enfatiza la importancia de una colaboración interdisciplinaria entre ecólogos y expertos en IA para abordar los desafíos ambientales de manera efectiva. En resumen, la charla busca inspirar a los participantes a considerar cómo la IA puede mejorar y ampliar su trabajo en la conservación y comprensión de los ecosistemas naturales.\nLinks a webs de IA surgidas durante las preguntas:\n\nhttps://github.com/agentmorris/Awesome-Remote-Sensing-Foundation-Models\nhttps://github.com/agentmorris/camera-trap-ml-survey\nhttps://addaxdatascience.com/ecoassist/\nhttps://huggingface.co/docs/transformers/model_doc/grounding-dino\nhttps://aiforconservation.slack.com/join/shared_invite/zt-2jxl41cwx-TBbsOOcvTEvh0JKdu5JaJg#/shared-invite/email\n\nFecha: 29 mayo 2024"
-  },
-  {
-    "objectID": "seminarios.html#seminario-15.-inferir-rango-de-distribución-a-partir-de-diversidad-genética",
-    "href": "seminarios.html#seminario-15.-inferir-rango-de-distribución-a-partir-de-diversidad-genética",
-    "title": "Seminarios",
-    "section": "Seminario 15. Inferir rango de distribución a partir de diversidad genética",
-    "text": "Seminario 15. Inferir rango de distribución a partir de diversidad genética\n\nInferencias de rango a partir de la distribución geográfica de la diversidad genética de las especies   \n\nImpartido por: Alejandro Llanos-Garrido, Universidad Complutense de Madrid\nResumen: Durante la expansión histórica del rango de distribución de una especie, los individuos que van colonizando nuevos ambientes se enfrentan a diferentes retos ecológicos. Lo capaces que son esos individuos de tener éxito en la expansión debe depender inequívocamente de lo adaptados que estén a los nuevos ambientes. Las herramientas de las que dispone un individuo para sobreponerse a estos retos se traducen en diversidad genética adaptativa. Por tanto, los rangos de distribución de una especie deben estar estrechamente relacionados con la cantidad total de variación genética adaptativa de esa especie. En este seminario, a partir de genomas de unas pocas poblaciones que ocupen un gradiente climático representativo del rango de distribución de una especie, identificaremos la porción de diversidad genética sujeta a selección natural (i.e., responsable de adaptaciones), y lo relacionaremos con la diversidad ambiental que ocupa. Extrapolando el modelo que surja de establecer esa relación, es posible saber qué ambientes puede ocupar una cantidad de diversidad genética adaptativa concreta, inferir el rango de distribución de la especie a partir de esta información y conocer los determinantes intrínsecos a la especie que restringen o favorecen la expansión o contracción de su rango.\nFecha: 9 Abril 2024"
-  },
-  {
-    "objectID": "seminarios.html#seminario-14.-qué-información-puedo-obtener-de-los-datos-pnoa-lidar",
-    "href": "seminarios.html#seminario-14.-qué-información-puedo-obtener-de-los-datos-pnoa-lidar",
-    "title": "Seminarios",
-    "section": "Seminario 14. ¿Qué información puedo obtener de los datos PNOA-LiDAR?",
-    "text": "Seminario 14. ¿Qué información puedo obtener de los datos PNOA-LiDAR?\n\n¿Qué información puedo obtener de los datos abiertos PNOA-LiDAR para caracterizar mi zona de estudio?   \n\nImpartido por: Marina Rodes-Blanco, Universidad de Alcalá\nResumen: LiDAR es una técnica de teledetección activa que utiliza la luz de un láser y registra coordenadas tridimensionales de la superficie de la tierra. El proyecto PNOA-LiDAR captura, a nivel nacional, esta información mediante sensores aerotransportados y pone los datos a disposición en el portal de descargas del IGN de manera totalmente gratuita. El objetivo de este seminario es explicar las características generales de este tipo de datos, los formatos en los que se encuentra y la utilización del paquete lidR para extraer información del terreno y de la masa arbórea con la finalidad de caracterizar un área de estudio determinada.\nFecha: 13 Marzo 2024"
-  },
-  {
-    "objectID": "seminarios.html#seminario-13.-labeler-genera-tus-certificados-y-etiquetas",
-    "href": "seminarios.html#seminario-13.-labeler-genera-tus-certificados-y-etiquetas",
-    "title": "Seminarios",
-    "section": "Seminario 13. labeleR: genera tus certificados y etiquetas",
-    "text": "Seminario 13. labeleR: genera tus certificados y etiquetas\n\nTaller de labeleR: cómo generar etiquetas científicas, certificados para eventos y mucho más en R   \n\nImpartido por: Julia G. de Aledo, Universidad Autónoma de Madrid\nResumen: El paquete de R labeleR que tiene como objetivo generar etiquetas de herbario, etiquetas para distintos tipos de colecciones, certificados de asistencia y participación a eventos, acreditaciones, etc. Esta herramienta es altamente accesible y permite la generación de etiquetas y otros documentos de manera automatizada a partir de extensas bases de datos, simplificando significativamente procesos repetitivos y de larga duración. Las funciones incorporadas permiten seleccionar la base de datos de origen, introducir QRs, añadir logos y personalizar campos de contenido según cada necesidad. En esta charla explicaremos el funcionamiento del paquete y haremos un taller sobre cómo utilizar sus funciones, contestando las dudas que surjan. El paquete está disponible para su uso de manera abierta en GitHub, y cuenta con un tutorial de uso.\nTutorial de labeleR: https://ecologyr.github.io/labeleR/\nRepositorio para empezar: https://github.com/juliagdealedo/labeleR_workshop\nFecha: 25 Enero 2024"
-  },
-  {
-    "objectID": "seminarios.html#seminario-12.-regímenes-dinámicos-ecológicos",
-    "href": "seminarios.html#seminario-12.-regímenes-dinámicos-ecológicos",
-    "title": "Seminarios",
-    "section": "Seminario 12. Regímenes dinámicos ecológicos",
-    "text": "Seminario 12. Regímenes dinámicos ecológicos\n\nRegímenes dinámicos ecológicos: identificación, caracterización y comparación   \n\nImpartido por: Martina Sánchez Pinillos, Université de Montpellier / Université du Québec à Montréal (UQAM)\nResumen: Entender cómo cambian los ecosistemas a lo largo del tiempo es una cuestión que ha despertado gran interés entre ecólogos y naturalistas de todas las épocas. Sin embargo, caracterizar cuantitativamente las dinámicas ecológicas sigue siendo un reto debido a la gran complejidad de los sistemas ecológicos y a la falta de datos que permitan evaluar el estado de los sistemas durante largos periodos de tiempo. En este seminario, se introducirá un conjunto de análisis y métricas implementadas en R para identificar, caracterizar y comparar regímenes dinámicos a partir de grandes bases de datos.\nLink a repo de GitHub: https://github.com/MSPinillos/ecoregime_tutorial\nLink a zenodo: https://zenodo.org/record/8388777\nFecha: 28 Septiembre 2023"
-  },
-  {
-    "objectID": "seminarios.html#seminario-11.-introducción-al-uso-de-filogenias",
-    "href": "seminarios.html#seminario-11.-introducción-al-uso-de-filogenias",
-    "title": "Seminarios",
-    "section": "Seminario 11. Introducción al uso de filogenias",
-    "text": "Seminario 11. Introducción al uso de filogenias\n\nIntroducción al uso de filogenias en Ecología. El paquete randtip como método de abordar la incompletitud filogenética   \n\nImpartido por: Ignacio Ramos, Universidad Autónoma de Madrid\nResumen: La inclusión de filogenias es un aspecto clave en Ecología, puesto que trata la historia evolutiva de distintos taxones como un gradiente, y no como unidades independientes. En la primera parte de este seminario vamos a ver la importancia de incluir información filogenética en análisis ecológicos, qué oportunidades presenta, y problemáticas que conlleva. En una segunda parte se presentará una metodología para expandir filogenias incompletas utilizando información no molecular, y su aplicación a través del paquete de R randtip.\nLink a repo de GitHub: https://github.com/iramosgutierrez/randtip\nLink a manuscrito: https://www.biorxiv.org/content/10.1101/2022.01.04.474924v1\nLink a tutorial: https://www.biorxiv.org/content/biorxiv/early/2022/01/04/2022.01.04.474924/DC2/embed/media-2.pdf?download=false\nFecha: 29 Mayo 2023"
-  },
-  {
-    "objectID": "seminarios.html#seminario-10.-introducción-a-zotero",
-    "href": "seminarios.html#seminario-10.-introducción-a-zotero",
-    "title": "Seminarios",
-    "section": "Seminario 10. Introducción a Zotero",
-    "text": "Seminario 10. Introducción a Zotero\n\nIntroducción a Zotero: cómo organizar nuestras referencias de forma accesible y cómo citar fácilmente en R con Quarto/RMarkdown   \n\nImpartido por: Darío San Segundo Molina, Universidad de Alcalá, Madrid\nResumen: Organizar nuestra bibliografía de una forma eficiente, fácilmente accesible e integrarla en flujos de trabajo reproducibles (p. ej. RMarkdown o Quarto) supone muchas ventajas a la hora de integrar conocimiento científico, redactar manuscritos/proyectos y compartir referencias. Zotero es una herramienta de código abierto que facilita estas tareas. En este seminario, especialmente orientado para investigadores/as de ecología en etapas tempranas, veremos brevemente las funcionalidades principales de su interfaz, sus ventajas frente a otros gestores y el funcionamiento general de citas en procesadores de texto, deteniéndonos en cómo utilizarlo junto con Quarto/RMarkdown a través del visual editor mode para facilitar un flujo de trabajo reproducible. Por último, veremos algunos recursos adicionales como el acceso a cualquier artículo desde la interfaz vía SciHub , los Zotero-Groups y la sincronización cuasi-ilimitada de archivos entre dispositivos mediante nubes de almacenamiento.\nLink a repo de GitHub: https://github.com/dario-ssm/zote_r_o\nLink a diapositivas: https://dario-ssm.github.io/zote_r_o/#/title-slide\nFecha: 20 Febrero 2023"
-  },
-  {
-    "objectID": "seminarios.html#seminario-9.-introducción-al-mundo-de-la-bioacústica",
-    "href": "seminarios.html#seminario-9.-introducción-al-mundo-de-la-bioacústica",
-    "title": "Seminarios",
-    "section": "Seminario 9. Introducción al mundo de la bioacústica",
-    "text": "Seminario 9. Introducción al mundo de la bioacústica\n\nIntroducción al mundo de la bioacústica y aplicaciones metodológicas. ¡Escucha qué dicen tus datos!   \n\nImpartido por: Elena Tena, Estación Biológica de Doñana - CSIC, Sevilla\nResumen: Muchas especies se desplazan e interaccionan con el medio a partir del sonido. La bioacústica es una metodología no invasiva que nos permite detectar diferentes animales a través de su canto. Durante este seminario, veremos los principios básicos de la bioacústica y sus aplicaciones metodológicas. Aprenderemos a cómo registrar datos acústicos con diferentes detectores de sonido así como a gestionar y analizar dichos datos en base a diferentes parámetros acústicos. Concretamente, analizaremos algunos ejemplos de grabaciones de especies variadas con distintos software de sonido.\nFecha: 29 Noviembre 2022"
-  },
-  {
-    "objectID": "seminarios.html#seminario-8.-introducción-al-análisis-espacial-de-patrones-de-puntos",
-    "href": "seminarios.html#seminario-8.-introducción-al-análisis-espacial-de-patrones-de-puntos",
-    "title": "Seminarios",
-    "section": "Seminario 8. Introducción al análisis espacial de patrones de puntos",
-    "text": "Seminario 8. Introducción al análisis espacial de patrones de puntos\n\nIntroducción al análisis espacial de patrones de puntos. ¿Qué hago con mis coordenadas espaciales?   \n\nImpartido por: Antonio Perea Martos, Estación Experimental del Zaidín - CSIC, Granada\nResumen: Hubbell et al. en el año 2001 postularon que “Cualquier mecanismo de coexistencia que esté operando en un bosque deja una huella espacial que puede ser detectada haciendo mapas individuales de las localizaciones”. Estas huellas espaciales vienen determinadas por la posición (X e Y) de los sujetos de estudios, y aportan pistas sobre los mecanismos que podrían estar operando en el ensamblaje de comunidades. Para analizar este tipo de huellas se requiere del uso del “point pattern analysis”, una herramienta muy versátil y aplicable prácticamente a cualquier campo de la ecología que trabaje con localizaciones (puntos). Por tanto, el uso de este tipo de herramienta aporta una perspectiva añadida a los análisis estadísticos convencionales, evaluando el efecto de la distancia y la densidad en los procesos de interés. En este escenario veremos algunos ejemplos sobre las posibles aplicaciones de esta metodología, a la vez que se atenderán dudas según vayan surgiendo.\nFecha: 24 Octubre 2022"
-  },
-  {
-    "objectID": "seminarios.html#seminario-7.-integración-de-datos-en-la-estima-de-la-distribución-y-abundancia-animal",
-    "href": "seminarios.html#seminario-7.-integración-de-datos-en-la-estima-de-la-distribución-y-abundancia-animal",
-    "title": "Seminarios",
-    "section": "Seminario 7. Integración de datos en la estima de la distribución y abundancia animal",
-    "text": "Seminario 7. Integración de datos en la estima de la distribución y abundancia animal\n\nIntegración de datos en la estima de la distribución y abundancia animal   \n\nImpartido por: Javier Fernández-López, CEFE - UCM (Montpellier, Francia)\nResumen: Cada vez más a menudo disponemos de diferentes fuentes de datos con información complementaria acerca de la abundancia o distribución de las poblaciones animales: datos de fototrampeo, conteos directos, registros de presencia oportunistas… En este seminario veremos como la integración de datos en un marco de modelización jerárquica permite combinar estas distintas fuentes en único modelo para obtener estimas de abundancias más precisas.\nLink a repo de GitHub: https://github.com/jabiologo/aeetSeminario\nFecha: 29 Septiembre 2022"
-  },
-  {
-    "objectID": "seminarios.html#seminario-6.-introducción-a-python",
-    "href": "seminarios.html#seminario-6.-introducción-a-python",
-    "title": "Seminarios",
-    "section": "Seminario 6. Introducción a Python",
-    "text": "Seminario 6. Introducción a Python\n\nIntroducción al análisis de datos con Python   \n\nImpartido por: Virginia Domínguez-García, Estación Biológica de Doñana - CSIC, Sevilla\nResumen: La programación se está volviendo más y más importante para el análisis de datos en todas las disciplinas. Aunque en ecología el lenguaje de programación más utilizado es R, en ocasiones conocer otros lenguajes puede facilitarte la vida pues diferentes librerías están más desarrolladas en uno u otro lenguaje (por ejemplo el machine learning en Python). Este taller es una introducción al uso de Python para el análisis de datos, en el que se cubrirán: la lectura (y escritura) de datos desde ficheros, la limpieza y re-estructuración de dichos datos, su análisis usando estadísticas simples, y finalmente la representación de los resultados. Para poder ir realizando los ejercicios propuestos se recomienda tener instalado Python (preferiblemente con Anaconda https://www.anaconda.com/products/distribution) antes de iniciar el taller, pero si las personas asistentes encuentran problemas con la instalación cubriremos esto al inicio del taller también.\nLink a repo de GitHub: https://github.com/domgarvir/taller_python_data\nFecha: 5 Julio 2022"
-  },
-  {
-    "objectID": "seminarios.html#seminario-5.-análisis-de-dinámicas-poblacionales-en-r",
-    "href": "seminarios.html#seminario-5.-análisis-de-dinámicas-poblacionales-en-r",
-    "title": "Seminarios",
-    "section": "Seminario 5. Análisis de dinámicas poblacionales en R",
-    "text": "Seminario 5. Análisis de dinámicas poblacionales en R\n\nAnálisis de dinámicas poblacionales en R   \n\nImpartido por: David García-Callejas, Landcare Research New Zealand, University of Canterbury\nResumen: Las poblaciones de diferentes especies varían en respuesta a toda una serie de factores, y la ecología matemática ha ido desarrollando, desde hace más de un siglo, las herramientas para analizar estas dinámicas. En este seminario haremos un repaso de los fundamentos ecológicos de algunas de estas herramientas, desde modelos de crecimiento exponencial a dinámicas Lotka-Volterra, y veremos cómo implementarlas en R. Hablaremos de dinámicas de especies individuales y de especies con diferentes tipos de interacciones, repasando funciones para evaluar su estabilidad o para representarlas gráficamente.\nLink a repo de GitHub: https://github.com/garciacallejas/LV_dynamics\nFecha: 6 Junio 2022"
-  },
-  {
-    "objectID": "seminarios.html#seminario-4.-generación-de-visores-de-datos-espaciales-con-r",
-    "href": "seminarios.html#seminario-4.-generación-de-visores-de-datos-espaciales-con-r",
-    "title": "Seminarios",
-    "section": "Seminario 4. Generación de visores de datos espaciales con R",
-    "text": "Seminario 4. Generación de visores de datos espaciales con R\n\nGeneración de visores de datos espaciales con R   \n\nImpartido por: Antonio J. Pérez-Luque, Estación Experimental del Zaidín CSIC, Granada\nResumen: ¿Necesitas mostrar información espacial sobre alguna de tus investigaciones? ¿Quieres compartir con tus colaboradores las zonas de tu muestreo de una forma sencilla? En este seminario introduciremos algunas herramientas para la creación de visores espaciales sencillos y prácticos que permitan mostrar tu información espacial combinándola con otras capas de información. Para ello, utilizaremos diferentes paquetes de R, y combinándolos con leaflet (una librería JavaScript), GitHub y servicios WMS, generaremos visores espaciales de una forma sencilla.\nLink a presentación: https://ajpelu.github.io/visores_geograficos_r/slides.html\nLink a repo de GitHub: https://github.com/ajpelu/visores_geograficos_r\nMapa de ejemplo: https://ajpelu.github.io/visores_geograficos_r_ejemplo/\nFecha: 5 Mayo 2022"
-  },
-  {
-    "objectID": "seminarios.html#seminario-3.-análisis-de-la-ciencia-ciudadana-mediante-modelos-de-ocupación",
-    "href": "seminarios.html#seminario-3.-análisis-de-la-ciencia-ciudadana-mediante-modelos-de-ocupación",
-    "title": "Seminarios",
-    "section": "Seminario 3. Análisis de la ciencia ciudadana mediante modelos de ocupación",
-    "text": "Seminario 3. Análisis de la ciencia ciudadana mediante modelos de ocupación\n\nAnálisis de la ciencia ciudadana mediante modelos de ocupación   \n\nImpartido por: Guillermo Fandos Guzmán, Universidad Complutense de Madrid\nResumen: Durante este seminario vamos a ver los pasos iniciales básicos para aplicar los modelos de ocupación a los datos de ciencia ciudadana. Los modelos de ocupación nos permiten modelar conjuntamente el proceso ecológico de aparición de especies y el proceso de observación de la detección de especies, pero a su vez nos permite sacar estimas como procesos separados. Este marco analítico nos permite tener en cuenta la variación de la probabilidad de detección al estimar la presencia de las especies.\nLink a datos y PDF: https://drive.google.com/drive/folders/1BX1js28MS-RSMFvTHoKJJ6iDY9wGNoAw\nFecha: 30 Marzo 2022"
-  },
-  {
-    "objectID": "seminarios.html#seminario-2.-estadística-bayesiana",
-    "href": "seminarios.html#seminario-2.-estadística-bayesiana",
-    "title": "Seminarios",
-    "section": "Seminario 2. Estadística bayesiana",
-    "text": "Seminario 2. Estadística bayesiana\n\nEstadística bayesiana: principios, teorema de bayes y su aplicación   \n\nImpartido por: Paloma Ruiz-Benito e Ignacio Morales-Castilla, Universidad de Alcalá (UAH), Madrid - grupo de EcoBayesUAH\nResumen: Repaso de los beneficios en el uso de una aproximación de la estadística bayesiana, explicación general del teorema de Bayes, y uso de ejemplos conceptuales y prácticos.\nFecha: 28 Febrero 2022"
-  },
-  {
-    "objectID": "seminarios.html#seminario-1.-búsqueda-descarga-y-limpieza-de-datos-desde-gbif",
-    "href": "seminarios.html#seminario-1.-búsqueda-descarga-y-limpieza-de-datos-desde-gbif",
-    "title": "Seminarios",
-    "section": "Seminario 1. Búsqueda, descarga y limpieza de datos desde GBIF",
-    "text": "Seminario 1. Búsqueda, descarga y limpieza de datos desde GBIF\n\nBúsqueda, descarga y limpieza de datos de biodiversidad desde GBIF. Una odisea ecoinformática   \n\nImpartido por: Carlos Lara Romero, Universidad Rey Juan Carlos, Madrid\nResumen: La misión cardinal de GBIF es dar acceso, de manera libre y gratuita, a datos de biodiversidad para apoyar la investigación científica y fomentar la conservación biológica. La información disponible en GBIF se encuentra estructurada en diversos tipos de datos y metadatos. Esta estructura es uno de los mayores potenciales de GBIF, pero también dificulta el proceso de descarga de la información. El objetivo del seminario es dotar a los asistentes de la información y herramientas para desarrollar con éxito el proceso de búsqueda, descarga y limpieza de datos desde GBIF a través de su interfaz web y del paquete de R “rgbif”. Pero, sobre todo, con el seminario pretendo mostrar mi proceso de aprendizaje del lenguaje de programación R. Una odisea llena de frustración y fallo. De debilidad. Pero también de éxitos, satisfacción y crecimiento personal y profesional.\nFecha: 31 Enero 2022"
   }
 ]
