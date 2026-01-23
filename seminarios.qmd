@@ -9,6 +9,28 @@ format:
 
 <br>
 
+## Seminario 20. OpenStreetMap: cartografía libre de acceso, uso y contribución
+
+-   [OpenStreetMap: cartografía libre de acceso, uso y contribución](https://youtu.be/Y_kQV5QO1xY) \ 
+{{< video https://youtu.be/Y_kQV5QO1xY >}}
+
+    -   Impartido por: Miguel Sevilla-Callejo
+
+    -   Resumen: OpenStreetMap (OSM) es una proyecto de cartografía colaborativa que recoge información espacial de diversa naturaleza de manera global. Del mismo modo que la Wikipedia recoge artículos enciclopédicos, OSM tiene elementos geográficos que, al igual que la primera, son editados por una amplia comunidad de colaboradores y cuyo contenido es de libre acceso y distribución. Estos datos cartográficos abiertos son susceptibles de usarse como base o fuente de datos en investigación. En torno a este proyecto se ha creado un extenso ecosistema de aplicaciones que se nutren de sus datos y se basan en tecnologías libres como OSMAnd. En la charla se presentará qué es, cómo colaborar y como extraer datos de OpenStreetMap al igual que se mostrarán algunas aplicaciones asociadas y de utilidad para el trabajo sobre el terreno o en el ámbito académico y la investigación.
+
+    -   Diapositivas:
+    
+        -   <https://cloud.montera34.org/index.php/s/Fm4NgY8jq6QpxqC>
+ 
+    -   Enlaces de interés:
+    
+        -   <https://wiki.openstreetmap.org>
+        -   <https://www.openstreetmap.es>
+        -   <https://mapcolabora.org/post/2024/2024-05-21-intro_osmand/>
+
+    -   Fecha: 22 enero 2026
+    
+    
 ## Seminario 19. OCCUR Shiny app: flujo de trabajo para validar registros de especies
 
 -   [OCCUR Shiny app: La importancia de establecer un flujo de trabajo apropiado para validar registros de presencia de especies](https://youtu.be/ck6rzzSy4kE) \ 
@@ -20,9 +42,9 @@ format:
 
     -   Enlaces de interés:
     
-        -   https://ecoinformatic.shinyapps.io/OCCUR 
-        -   https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14271 
-        -   https://onlinelibrary.wiley.com/doi/10.1002/ece3.10786 
+        -   <https://ecoinformatic.shinyapps.io/OCCUR> 
+        -   <https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14271> 
+        -   <https://onlinelibrary.wiley.com/doi/10.1002/ece3.10786> 
 
     -   Fecha: 8 abril 2025
 
