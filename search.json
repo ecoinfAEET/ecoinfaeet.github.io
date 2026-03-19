@@ -196,6 +196,13 @@
     "text": "Taller sobre ‘Introducción a Git y GitHub, dos herramientas para una ecología más colaborativa y reproducible’.\n\nContenido del taller\nMás información en la página web del congreso.\n\n\n\n\n\n\n\n\n\n\n\n\n\n Back to top"
   },
   {
+    "objectID": "seminarios.html#seminario-21.-divide-y-vencerás-introducción-a-la-programación-en-paralelo-y-supercomputación",
+    "href": "seminarios.html#seminario-21.-divide-y-vencerás-introducción-a-la-programación-en-paralelo-y-supercomputación",
+    "title": "Seminarios",
+    "section": "Seminario 21. Divide y vencerás: Introducción a la programación en paralelo y supercomputación",
+    "text": "Seminario 21. Divide y vencerás: Introducción a la programación en paralelo y supercomputación\n\nDivide y vencerás: Introducción a la programación en paralelo y supercomputación [Seminario no grabado]\n\nImpartido por: Esteban Alonso González\nResumen: La democratización del acceso a servidores y clústeres de computación distribuida gracias a infraestructuras públicas y a servicios comerciales de bajo coste ha convertido la supercomputación (HPC) en una herramienta transversal en multitud de áreas de investigación. Este escenario permite hoy abordar cuestiones científicas que hace pocos años resultaban impensables y ha impulsado el desarrollo de bibliotecas de alto nivel, fáciles de usar, en los principales lenguajes de programación para escalar cálculos de forma eficiente.\nEn este seminario introduciremos los conceptos fundamentales de la supercomputación y calculo en paralelo: qué es un “superordenador” asi como los principales paradigmas de paralelización como son la memoria compartida, memoria distribuida, GPU e identificar codigo “embarazosamente paralelizable” frente a lo puramente secuencial no-paralelizable. Veremos cómo funcionan los planificadores de tareas (schedulers), cómo se estructuran colas y recursos en un clúster tipo, y buenas prácticas para ejecutar trabajos de manera eficiente. Incluiremos ejemplos prácticos con fragmentos de código y pseudónimo.\nEste seminario está orientado a personas sin experiencia previa en HPC y con limitada, o nula, experiencia en desarrollo de software paralelo.\nDiapositivas:\n\nhttps://drive.google.com/file/d/1Vk14KIHoORWLuauCr7o71PvYw77gaA4z/view?usp=drive_link\n\nFecha: 12 marzo 2026"
+  },
+  {
     "objectID": "seminarios.html#seminario-20.-openstreetmap-cartografía-libre-de-acceso-uso-y-contribución",
     "href": "seminarios.html#seminario-20.-openstreetmap-cartografía-libre-de-acceso-uso-y-contribución",
     "title": "Seminarios",
