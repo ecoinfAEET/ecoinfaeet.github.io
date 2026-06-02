@@ -1,0 +1,38 @@
+---
+title: "II Jornadas de Ecoinformática de la AEET"
+format:
+  html:
+    toc: true
+    toc-title: "Índice"
+    css: styles.css
+---
+
+<br>
+
+Las II Jornadas de Ecoinformática de la AEET se celebrarán en Sevilla, del 1 al 3 de octubre de 2026 en la Sede de la Fundación Biodiversidad. Se plantean dos días de ponencias, charlas, mesas redondas y talleres, y el último día organizaremos una excursión por los alrededores.
+
+Estas jornadas se plantean como un espacio de intercambio para compartir investigación, herramientas y metodologías, así como para fomentar colaboraciones entre personas interesadas en el análisis de datos, estadística, modelización, inteligencia artificial y programación aplicada a la ecología. La ecoinformática proporciona herramientas clave para afrontar los retos asociados al cambio climático global mediante el uso de tecnología avanzada. El análisis eficiente de datos a gran escala permite anticipar y comprender mejor los cambios ambientales que se avecinan, facilitando así la toma de decisiones informadas.
+
+En estas jornadas se busca compartir avances mediante ponencias y charlas, desarrollar cualidades mediante talleres y hackatones; debatir temas de actualidad entre colegas y expertxs a través de mesas redondas y descubrir el entorno de Sevilla con una pequeña visita / excursión.
+
+Queremos que las II Jornadas de Ecoinformática sean accesibles para todo tipo de público, ya sean investigadores, estudiantes o aficionados que dediquen su tiempo libre a la ecoinformática, independientemente de su nivel de experiencia. Aspiramos a crear un entorno inclusivo donde la motivación por aprender en el campo de la ecoinformática sea el principal vínculo entre todos los participantes.
+
+Para más información visita la página web de las jornadas: <https://ecoinfaeet.github.io/II_jornadas_ecoinf/>
+
+<br>
+
+```{r}
+#| out.width = "75%",
+#| fig.height = 1,
+#| echo = FALSE
+knitr::include_graphics("https://ecoinfaeet.github.io/II_jornadas_ecoinf/images/poster.png")
+```
+
+<br>
+
+```{r}
+#| out.width = "100%",
+#| fig.height = 1,
+#| echo = FALSE
+knitr::include_graphics("images/ecoinf_10.jpg")
+```

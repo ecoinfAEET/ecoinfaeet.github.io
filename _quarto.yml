@@ -23,8 +23,10 @@ website:
         text: Seminarios
       - text: Actividades
         menu:
+          - text: "II Jornadas de Ecoinformática"
+            href: activ_II_jornadas.qmd
           - text: "I Jornadas de Ecoinformática"
-            href: jornadas.qmd
+            href: activ_I_jornadas.qmd
           - text: "AEET 2023"
             href: activ_AEET2023.qmd
           - text: "AEET 2021"
