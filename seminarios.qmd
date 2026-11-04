@@ -76,7 +76,6 @@ editor:
     -   Diapositivas:
 
         -   <https://saco.csic.es/s/WjTcDiBRTwnb3Qz>
-        -   prueba prueba
 
     -   Enlaces de interés:
 
